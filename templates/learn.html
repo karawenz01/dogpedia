@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Dogpedia - Find a right dog for you and adopt them</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../static/css/business-casual.min.css" rel="stylesheet">
+
+    <!-- Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+  </head>
+
+  <body>
+
+    <h1 class="site-heading text-center text-white d-none d-lg-block">
+      <span class="site-heading-upper text-primary mb-3">Learn more about your dog</span>
+      <span class="site-heading-lower">The more you know, the better friends you have</span>
+    </h1>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand text-uppercase text-expanded font-weight-bold d-lg-none" href="#">Guide to Caring for your Dogs</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav mx-auto">
+            <li class="nav-item px-lg-4">
+              <a class="nav-link text-uppercase text-expanded" href="/">Home
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item px-lg-4">
+              <a class="nav-link text-uppercase text-expanded" href="/find">Find</a>
+            </li>
+            <li class="nav-item active px-lg-4">
+              <a class="nav-link text-uppercase text-expanded" href="/learn">Learn</a>
+            </li>
+            <li class="nav-item px-lg-4">
+              <a class="nav-link text-uppercase text-expanded" href="/adopt">Adopt</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <section class="page-section" style="background-color: rgba(230, 167, 86, 0.9); padding: 3rem 0;">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-9 mx-auto">
+            <div class="cta-inner text-center rounded">
+              <h2 class="section-heading mb-5">
+                <span class="section-heading-upper">Share how much time and money you spend for your dog (optional)</span>
+                <span class="section-heading-lower">Select your breed and search</span>
+              </h2>
+
+                <form method="POST" action="/send" role="form">
+                    <div class="form-group">
+                      <label for="selBreed">Select your breed</label>
+                      <select id="selDataset" onchange="optionChanged(this.value)" name="Breed"></select>
+                    </div>
+                    <div class="form-groupß">
+                      <label for="inputTime">How many hours do you spend with your dogs per day? (optional)</label>
+                      <input type="number" class="form-control" id="inputTime" name= "Time" placeholder="Answer with a number of hours">
+                    </div>
+                    <div class="form-group">
+                      <label for="inputTime">How much do you spend on your dogs per month? (optional)</label>
+                      <input type="number" class="form-control" id="inputMoney" name= "Money" placeholder="Answer with a dollar value">
+                    </div>
+                    <!-- <input type="submit" value="submit" class="btn btn-primary btn-xl"> -->
+                    <button type="submit" class="btn btn-primary btn-xl" id="search">Submit</button>
+                  </form>
+
+            </div>
+          </div>
+        </div>
+      </div>  
+    </section>
+
+    
+    <section class="page-section">
+      <div class="container">
+        <div class="product-item">
+          <div class="product-item-title d-flex">
+            <div class="bg-faded p-5 d-flex ml-auto rounded">
+              <h2 class="section-heading mb-0">
+                <span class="section-heading-upper">Box Plots in plotly.js</span>
+                <span class="section-heading-lower">Average time</span>
+              </h2>
+            </div>
+          </div>
+          <div class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0">
+            <div id="buildPlotTime"></div>
+          </div>
+          <div class="product-item-description d-flex mr-auto">
+            <div class="bg-faded p-5 rounded">
+              <p class="mb-0">Some breeds do fine with a slow evening stroll around the block. Others need daily, vigorous exercise -- especially those that were originally bred for physically demanding jobs, such as herding or hunting. Without enough exercise, these breeds may put on weight and vent their pent-up energy in ways you don't like, such as barking, chewing, and digging. Breeds that need a lot of exercise are good for outdoorsy, active people, or those interested in training their dog to compete in a high-energy dog sport, such as agility.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="page-section">
+      <div class="container">
+        <div class="product-item">
+          <div class="product-item-title d-flex">
+            <div class="bg-faded p-5 d-flex mr-auto rounded">
+              <h2 class="section-heading mb-0">
+                <span class="section-heading-upper">Bar Chart in plotly.js</span>
+                <span class="section-heading-lower">Breeds Traits</span>
+              </h2>
+            </div>
+          </div>
+          <div class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0">
+              <div id="buildBar"></div>
+          </div>
+          <div class="product-item-description d-flex ml-auto">
+            <div class="bg-faded p-5 rounded">
+              <p class="mb-0">Contrary to popular belief, small size doesn't necessarily an apartment dog make — plenty of small dogs are too high-energy and yappy for life in a high-rise. Being quiet, low energy, fairly calm indoors, and polite with the other residents, are all good qualities in an apartment dog. High-energy dogs are always ready and waiting for action. Originally bred to perform a canine job of some sort, such as retrieving game for hunters or herding livestock, they have the stamina to put in a full workday. They need a significant amount of exercise and mental stimulation, and they're more likely to spend time jumping, playing, and investigating any new sights and smells. Low-energy dogs are the canine equivalent of a couch potato, content to doze the day away. When picking a breed, consider your own activity level and lifestyle, and think about whether you'll find a frisky, energetic dog invigorating or annoying.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="page-section">
+      <div class="container">
+        <div class="product-item">
+          <div class="product-item-title d-flex">
+            <div class="bg-faded p-5 d-flex ml-auto rounded">
+              <h2 class="section-heading mb-0">
+                <span class="section-heading-upper">Box Plots in plotly.js</span>
+                <span class="section-heading-lower">Average money</span>
+              </h2>
+            </div>
+          </div>
+          <div class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0">
+            <div id="buildPlotMoney"></div>
+          </div>
+          <div class="product-item-description d-flex mr-auto">
+            <div class="bg-faded p-5 rounded">
+              <p class="mb-0">Some breeds are brush-and-go dogs; others require regular bathing, clipping, and other grooming just to stay clean and healthy. Consider whether you have the time and patience for a dog that needs a lot of grooming, or the money to pay someone else to do it.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer text-faded text-center py-5">
+      <div class="container">
+        <p class="m-0 small">Copyright &copy; Dogpedia Inc. 2018</p>
+      </div>
+    </footer>
+
+    <!-- plotly import -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>  
+
+    <!-- d3 import -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="../static/vendor/jquery/jquery.min.js"></script>
+    <script src="../static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- learn_logic.js -->
+    <script src="{{ url_for('static', filename='js/learn_logic.js') }}"></script> <!-- run only with Flask -->
+
+  </body>
+
+</html>

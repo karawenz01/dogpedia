@@ -1,0 +1,6241 @@
+[{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77edd4"
+	},
+	"breed": "Affenpinscher",
+	"time": 21,
+	"money": 2066
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77edd5"
+	},
+	"breed": "Afghan Hound",
+	"time": 8,
+	"money": 906
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77edd6"
+	},
+	"breed": "Airedale Terrier",
+	"time": 24,
+	"money": 3432
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77edd7"
+	},
+	"breed": "Akita",
+	"time": 11,
+	"money": 311
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77edd8"
+	},
+	"breed": "Alaskan Malamute",
+	"time": 6,
+	"money": 1962
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77edd9"
+	},
+	"breed": "American Bulldog",
+	"time": 8,
+	"money": 547
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77edda"
+	},
+	"breed": "American Eskimo Dog",
+	"time": 20,
+	"money": 1810
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77eddb"
+	},
+	"breed": "American Staffordshire Terrier",
+	"time": 1,
+	"money": 1308
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77eddc"
+	},
+	"breed": "American Water Spaniel",
+	"time": 24,
+	"money": 759
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77eddd"
+	},
+	"breed": "Australian Kelpie",
+	"time": 4,
+	"money": 351
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77edde"
+	},
+	"breed": "Australian Shepherd",
+	"time": 13,
+	"money": 2815
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77eddf"
+	},
+	"breed": "Australian Terrier",
+	"time": 12,
+	"money": 617
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77ede0"
+	},
+	"breed": "Basenji",
+	"time": 10,
+	"money": 4582
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77ede1"
+	},
+	"breed": "Basset Hound",
+	"time": 16,
+	"money": 3154
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77ede2"
+	},
+	"breed": "Beagle",
+	"time": 10,
+	"money": 1238
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77ede3"
+	},
+	"breed": "Bearded Collie",
+	"time": 23,
+	"money": 2495
+},
+{
+	"_id": {
+		"$oid": "5b90e2b050f9600e0c77ede4"
+	},
+	"breed": "Bedlington Terrier",
+	"time": 3,
+	"money": 3732
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77ede5"
+	},
+	"breed": "Bernese Mountain Dog",
+	"time": 22,
+	"money": 869
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77ede6"
+	},
+	"breed": "Bichon Frise",
+	"time": 1,
+	"money": 2998
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77ede7"
+	},
+	"breed": "Black and Tan Coonhound",
+	"time": 2,
+	"money": 4005
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77ede8"
+	},
+	"breed": "Black Mouth Cur",
+	"time": 11,
+	"money": 2355
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77ede9"
+	},
+	"breed": "Black Russian Terrier",
+	"time": 7,
+	"money": 4581
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edea"
+	},
+	"breed": "Bloodhound",
+	"time": 7,
+	"money": 420
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edeb"
+	},
+	"breed": "Blue Lacy",
+	"time": 20,
+	"money": 178
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edec"
+	},
+	"breed": "Bluetick Coonhound",
+	"time": 24,
+	"money": 3097
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77eded"
+	},
+	"breed": "Boerboel",
+	"time": 4,
+	"money": 3053
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edee"
+	},
+	"breed": "Bolognese",
+	"time": 17,
+	"money": 2342
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edef"
+	},
+	"breed": "Border Collie",
+	"time": 19,
+	"money": 87
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edf0"
+	},
+	"breed": "Border Terrier",
+	"time": 21,
+	"money": 3240
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edf1"
+	},
+	"breed": "Borzoi",
+	"time": 8,
+	"money": 182
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edf2"
+	},
+	"breed": "Boston Terrier",
+	"time": 16,
+	"money": 2810
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edf3"
+	},
+	"breed": "Boxer",
+	"time": 4,
+	"money": 3182
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edf4"
+	},
+	"breed": "Boykin Spaniel",
+	"time": 6,
+	"money": 4123
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edf5"
+	},
+	"breed": "Briard",
+	"time": 3,
+	"money": 3508
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edf6"
+	},
+	"breed": "Brussels Griffon",
+	"time": 12,
+	"money": 3402
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edf7"
+	},
+	"breed": "Bull Terrier",
+	"time": 1,
+	"money": 534
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edf8"
+	},
+	"breed": "Bullmastiff",
+	"time": 24,
+	"money": 4602
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edf9"
+	},
+	"breed": "Cairn Terrier",
+	"time": 13,
+	"money": 1085
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edfa"
+	},
+	"breed": "Canaan Dog",
+	"time": 12,
+	"money": 4243
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edfb"
+	},
+	"breed": "Catahoula Leopard Dog",
+	"time": 9,
+	"money": 4365
+},
+{
+	"_id": {
+		"$oid": "5b90e2b150f9600e0c77edfc"
+	},
+	"breed": "Cavalier King Charles Spaniel",
+	"time": 7,
+	"money": 4093
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77edfd"
+	},
+	"breed": "Chesapeake Bay Retriever",
+	"time": 8,
+	"money": 27
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77edfe"
+	},
+	"breed": "Chihuahua",
+	"time": 2,
+	"money": 3265
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77edff"
+	},
+	"breed": "Chinook",
+	"time": 3,
+	"money": 2659
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee00"
+	},
+	"breed": "Chow Chow",
+	"time": 21,
+	"money": 2676
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee01"
+	},
+	"breed": "Clumber Spaniel",
+	"time": 2,
+	"money": 4732
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee02"
+	},
+	"breed": "Cockapoo",
+	"time": 16,
+	"money": 582
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee03"
+	},
+	"breed": "Cocker Spaniel",
+	"time": 14,
+	"money": 1164
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee04"
+	},
+	"breed": "Collie",
+	"time": 3,
+	"money": 3760
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee05"
+	},
+	"breed": "Coton de Tulear",
+	"time": 13,
+	"money": 2920
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee06"
+	},
+	"breed": "Curly-Coated Retriever",
+	"time": 6,
+	"money": 3129
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee07"
+	},
+	"breed": "Dachshund",
+	"time": 24,
+	"money": 3232
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee08"
+	},
+	"breed": "Dalmatian",
+	"time": 22,
+	"money": 2597
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee09"
+	},
+	"breed": "Doberman Pinscher",
+	"time": 11,
+	"money": 4960
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee0a"
+	},
+	"breed": "Dogo Argentino",
+	"time": 1,
+	"money": 3946
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee0b"
+	},
+	"breed": "Dogue de Bordeaux",
+	"time": 1,
+	"money": 4927
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee0c"
+	},
+	"breed": "Dutch Shepherd",
+	"time": 7,
+	"money": 4926
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee0d"
+	},
+	"breed": "English Cocker Spaniel",
+	"time": 2,
+	"money": 3426
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee0e"
+	},
+	"breed": "English Setter",
+	"time": 11,
+	"money": 741
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee0f"
+	},
+	"breed": "English Springer Spaniel",
+	"time": 10,
+	"money": 2392
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee10"
+	},
+	"breed": "English Toy Spaniel",
+	"time": 17,
+	"money": 2927
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee11"
+	},
+	"breed": "Field Spaniel",
+	"time": 24,
+	"money": 57
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee12"
+	},
+	"breed": "Finnish Lapphund",
+	"time": 3,
+	"money": 274
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee13"
+	},
+	"breed": "Finnish Spitz",
+	"time": 4,
+	"money": 1574
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee14"
+	},
+	"breed": "Flat-Coated Retriever",
+	"time": 9,
+	"money": 4359
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee15"
+	},
+	"breed": "Fox Terrier",
+	"time": 7,
+	"money": 4037
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee16"
+	},
+	"breed": "French Bulldog",
+	"time": 7,
+	"money": 3311
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee17"
+	},
+	"breed": "German Pinscher",
+	"time": 18,
+	"money": 3879
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee18"
+	},
+	"breed": "German Shepherd Dog",
+	"time": 20,
+	"money": 3591
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee19"
+	},
+	"breed": "German Shorthaired Pointer",
+	"time": 15,
+	"money": 4103
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee1a"
+	},
+	"breed": "German Wirehaired Pointer",
+	"time": 22,
+	"money": 1415
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee1b"
+	},
+	"breed": "Giant Schnauzer",
+	"time": 15,
+	"money": 646
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee1c"
+	},
+	"breed": "Glen of Imaal Terrier",
+	"time": 14,
+	"money": 141
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee1d"
+	},
+	"breed": "Golden Retriever",
+	"time": 6,
+	"money": 2067
+},
+{
+	"_id": {
+		"$oid": "5b90e2b250f9600e0c77ee1e"
+	},
+	"breed": "Gordon Setter",
+	"time": 1,
+	"money": 2380
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee1f"
+	},
+	"breed": "Great Dane",
+	"time": 13,
+	"money": 4813
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee20"
+	},
+	"breed": "Great Pyrenees",
+	"time": 4,
+	"money": 4129
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee21"
+	},
+	"breed": "Greater Swiss Mountain Dog",
+	"time": 16,
+	"money": 2465
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee22"
+	},
+	"breed": "Greyhound",
+	"time": 13,
+	"money": 839
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee23"
+	},
+	"breed": "Harrier",
+	"time": 21,
+	"money": 1317
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee24"
+	},
+	"breed": "Havanese",
+	"time": 8,
+	"money": 526
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee25"
+	},
+	"breed": "Ibizan Hound",
+	"time": 1,
+	"money": 3358
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee26"
+	},
+	"breed": "Icelandic Sheepdog",
+	"time": 4,
+	"money": 4913
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee27"
+	},
+	"breed": "Irish Setter",
+	"time": 22,
+	"money": 3156
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee28"
+	},
+	"breed": "Irish Terrier",
+	"time": 0,
+	"money": 3035
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee29"
+	},
+	"breed": "Irish Water Spaniel",
+	"time": 0,
+	"money": 4327
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee2a"
+	},
+	"breed": "Irish Wolfhound",
+	"time": 21,
+	"money": 1387
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee2b"
+	},
+	"breed": "Italian Greyhound",
+	"time": 10,
+	"money": 3946
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee2c"
+	},
+	"breed": "Jack Russell Terrier",
+	"time": 21,
+	"money": 2007
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee2d"
+	},
+	"breed": "Japanese Chin",
+	"time": 23,
+	"money": 2400
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee2e"
+	},
+	"breed": "Karelian Bear Dog",
+	"time": 4,
+	"money": 4203
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee2f"
+	},
+	"breed": "Keeshond",
+	"time": 12,
+	"money": 3859
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee30"
+	},
+	"breed": "Kerry Blue Terrier",
+	"time": 22,
+	"money": 4095
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee31"
+	},
+	"breed": "Komondor",
+	"time": 18,
+	"money": 739
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee32"
+	},
+	"breed": "Kuvasz",
+	"time": 7,
+	"money": 1789
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee33"
+	},
+	"breed": "Labrador Retriever",
+	"time": 2,
+	"money": 4808
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee34"
+	},
+	"breed": "Lakeland Terrier",
+	"time": 12,
+	"money": 3366
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee35"
+	},
+	"breed": "Lancashire Heeler",
+	"time": 23,
+	"money": 624
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee36"
+	},
+	"breed": "Leonberger",
+	"time": 20,
+	"money": 926
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee37"
+	},
+	"breed": "Lhasa Apso",
+	"time": 9,
+	"money": 2330
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee38"
+	},
+	"breed": "Lowchen",
+	"time": 3,
+	"money": 980
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee39"
+	},
+	"breed": "Maltese",
+	"time": 8,
+	"money": 1192
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee3a"
+	},
+	"breed": "Manchester Terrier",
+	"time": 13,
+	"money": 1437
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee3b"
+	},
+	"breed": "Mastiff",
+	"time": 1,
+	"money": 2940
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee3c"
+	},
+	"breed": "Miniature Pinscher",
+	"time": 18,
+	"money": 4764
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee3d"
+	},
+	"breed": "Miniature Schnauzer",
+	"time": 12,
+	"money": 132
+},
+{
+	"_id": {
+		"$oid": "5b90e2b350f9600e0c77ee3e"
+	},
+	"breed": "Neapolitan Mastiff",
+	"time": 10,
+	"money": 3108
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee3f"
+	},
+	"breed": "Norfolk Terrier",
+	"time": 0,
+	"money": 2122
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee40"
+	},
+	"breed": "Norwegian Buhund",
+	"time": 0,
+	"money": 1813
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee41"
+	},
+	"breed": "Norwegian Elkhound",
+	"time": 9,
+	"money": 4425
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee42"
+	},
+	"breed": "Norwegian Lundehund",
+	"time": 8,
+	"money": 462
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee43"
+	},
+	"breed": "Norwich Terrier",
+	"time": 4,
+	"money": 122
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee44"
+	},
+	"breed": "Nova Scotia Duck Tolling Retriever",
+	"time": 3,
+	"money": 3675
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee45"
+	},
+	"breed": "Old English Sheepdog",
+	"time": 8,
+	"money": 233
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee46"
+	},
+	"breed": "Otterhound",
+	"time": 22,
+	"money": 2854
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee47"
+	},
+	"breed": "Papillon",
+	"time": 2,
+	"money": 1401
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee48"
+	},
+	"breed": "Pekingese",
+	"time": 12,
+	"money": 1594
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee49"
+	},
+	"breed": "Petit Basset Griffon Vendeen",
+	"time": 4,
+	"money": 4459
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee4a"
+	},
+	"breed": "Pharaoh Hound",
+	"time": 16,
+	"money": 3911
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee4b"
+	},
+	"breed": "Pointer",
+	"time": 10,
+	"money": 3236
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee4c"
+	},
+	"breed": "Polish Lowland Sheepdog",
+	"time": 2,
+	"money": 345
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee4d"
+	},
+	"breed": "Pomeranian",
+	"time": 17,
+	"money": 935
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee4e"
+	},
+	"breed": "Poodle",
+	"time": 22,
+	"money": 2699
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee4f"
+	},
+	"breed": "Portuguese Water Dog",
+	"time": 2,
+	"money": 4372
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee50"
+	},
+	"breed": "Pug",
+	"time": 22,
+	"money": 19
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee51"
+	},
+	"breed": "Puli",
+	"time": 13,
+	"money": 1837
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee52"
+	},
+	"breed": "Rat Terrier",
+	"time": 15,
+	"money": 485
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee53"
+	},
+	"breed": "Redbone Coonhound",
+	"time": 14,
+	"money": 3564
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee54"
+	},
+	"breed": "Rhodesian Ridgeback",
+	"time": 21,
+	"money": 3231
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee55"
+	},
+	"breed": "Rottweiler",
+	"time": 9,
+	"money": 3712
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee56"
+	},
+	"breed": "Saluki",
+	"time": 14,
+	"money": 1473
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee57"
+	},
+	"breed": "Samoyed",
+	"time": 8,
+	"money": 3894
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee58"
+	},
+	"breed": "Schipperke",
+	"time": 16,
+	"money": 1443
+},
+{
+	"_id": {
+		"$oid": "5b90e2b450f9600e0c77ee59"
+	},
+	"breed": "Scottish Deerhound",
+	"time": 20,
+	"money": 4265
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee5a"
+	},
+	"breed": "Sealyham Terrier",
+	"time": 6,
+	"money": 2810
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee5b"
+	},
+	"breed": "Shiba Inu",
+	"time": 2,
+	"money": 4634
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee5c"
+	},
+	"breed": "Shih Tzu",
+	"time": 7,
+	"money": 3379
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee5d"
+	},
+	"breed": "Siberian Husky",
+	"time": 18,
+	"money": 1003
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee5e"
+	},
+	"breed": "Silky Terrier",
+	"time": 12,
+	"money": 2000
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee5f"
+	},
+	"breed": "Skye Terrier",
+	"time": 3,
+	"money": 1754
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee60"
+	},
+	"breed": "Sloughi",
+	"time": 18,
+	"money": 1822
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee61"
+	},
+	"breed": "Staffordshire Bull Terrier",
+	"time": 11,
+	"money": 3078
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee62"
+	},
+	"breed": "Standard Schnauzer",
+	"time": 8,
+	"money": 1923
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee63"
+	},
+	"breed": "Sussex Spaniel",
+	"time": 20,
+	"money": 1092
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee64"
+	},
+	"breed": "Swedish Vallhund",
+	"time": 2,
+	"money": 3010
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee65"
+	},
+	"breed": "Tibetan Mastiff",
+	"time": 10,
+	"money": 4552
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee66"
+	},
+	"breed": "Tibetan Spaniel",
+	"time": 5,
+	"money": 1652
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee67"
+	},
+	"breed": "Tibetan Terrier",
+	"time": 1,
+	"money": 2351
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee68"
+	},
+	"breed": "Toy Fox Terrier",
+	"time": 16,
+	"money": 510
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee69"
+	},
+	"breed": "Treeing Walker Coonhound",
+	"time": 11,
+	"money": 1441
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee6a"
+	},
+	"breed": "Vizsla",
+	"time": 10,
+	"money": 3671
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee6b"
+	},
+	"breed": "Weimaraner",
+	"time": 20,
+	"money": 4757
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee6c"
+	},
+	"breed": "Welsh Springer Spaniel",
+	"time": 10,
+	"money": 3953
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee6d"
+	},
+	"breed": "Welsh Terrier",
+	"time": 20,
+	"money": 4691
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee6e"
+	},
+	"breed": "Whippet",
+	"time": 6,
+	"money": 2187
+},
+{
+	"_id": {
+		"$oid": "5b90e2b550f9600e0c77ee6f"
+	},
+	"breed": "Wirehaired Pointing Griffon",
+	"time": 14,
+	"money": 3864
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee70"
+	},
+	"breed": "Affenpinscher",
+	"time": 9,
+	"money": 2661
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee71"
+	},
+	"breed": "Afghan Hound",
+	"time": 16,
+	"money": 1923
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee72"
+	},
+	"breed": "Airedale Terrier",
+	"time": 22,
+	"money": 3417
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee73"
+	},
+	"breed": "Akita",
+	"time": 16,
+	"money": 514
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee74"
+	},
+	"breed": "Alaskan Malamute",
+	"time": 6,
+	"money": 3720
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee75"
+	},
+	"breed": "American Bulldog",
+	"time": 21,
+	"money": 3812
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee76"
+	},
+	"breed": "American Eskimo Dog",
+	"time": 8,
+	"money": 1287
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee77"
+	},
+	"breed": "American Staffordshire Terrier",
+	"time": 12,
+	"money": 3766
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee78"
+	},
+	"breed": "American Water Spaniel",
+	"time": 15,
+	"money": 1112
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee79"
+	},
+	"breed": "Australian Kelpie",
+	"time": 4,
+	"money": 1485
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee7a"
+	},
+	"breed": "Australian Shepherd",
+	"time": 4,
+	"money": 3639
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee7b"
+	},
+	"breed": "Australian Terrier",
+	"time": 3,
+	"money": 3778
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee7c"
+	},
+	"breed": "Basenji",
+	"time": 13,
+	"money": 4762
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee7d"
+	},
+	"breed": "Basset Hound",
+	"time": 20,
+	"money": 4253
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee7e"
+	},
+	"breed": "Beagle",
+	"time": 14,
+	"money": 1932
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee7f"
+	},
+	"breed": "Bearded Collie",
+	"time": 4,
+	"money": 543
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee80"
+	},
+	"breed": "Bedlington Terrier",
+	"time": 14,
+	"money": 1021
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee81"
+	},
+	"breed": "Bernese Mountain Dog",
+	"time": 15,
+	"money": 4338
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee82"
+	},
+	"breed": "Bichon Frise",
+	"time": 5,
+	"money": 3781
+},
+{
+	"_id": {
+		"$oid": "5b90e2bc50f9600e0c77ee83"
+	},
+	"breed": "Black and Tan Coonhound",
+	"time": 6,
+	"money": 4505
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee84"
+	},
+	"breed": "Black Mouth Cur",
+	"time": 24,
+	"money": 4972
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee85"
+	},
+	"breed": "Black Russian Terrier",
+	"time": 23,
+	"money": 2470
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee86"
+	},
+	"breed": "Bloodhound",
+	"time": 1,
+	"money": 4900
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee87"
+	},
+	"breed": "Blue Lacy",
+	"time": 4,
+	"money": 4168
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee88"
+	},
+	"breed": "Bluetick Coonhound",
+	"time": 9,
+	"money": 2079
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee89"
+	},
+	"breed": "Boerboel",
+	"time": 12,
+	"money": 541
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee8a"
+	},
+	"breed": "Bolognese",
+	"time": 2,
+	"money": 1994
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee8b"
+	},
+	"breed": "Border Collie",
+	"time": 17,
+	"money": 1795
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee8c"
+	},
+	"breed": "Border Terrier",
+	"time": 14,
+	"money": 4609
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee8d"
+	},
+	"breed": "Borzoi",
+	"time": 8,
+	"money": 3678
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee8e"
+	},
+	"breed": "Boston Terrier",
+	"time": 1,
+	"money": 3471
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee8f"
+	},
+	"breed": "Boxer",
+	"time": 2,
+	"money": 3982
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee90"
+	},
+	"breed": "Boykin Spaniel",
+	"time": 24,
+	"money": 2015
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee91"
+	},
+	"breed": "Briard",
+	"time": 18,
+	"money": 1134
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee92"
+	},
+	"breed": "Brussels Griffon",
+	"time": 16,
+	"money": 2320
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee93"
+	},
+	"breed": "Bull Terrier",
+	"time": 14,
+	"money": 3052
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee94"
+	},
+	"breed": "Bullmastiff",
+	"time": 3,
+	"money": 4814
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee95"
+	},
+	"breed": "Cairn Terrier",
+	"time": 19,
+	"money": 3472
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee96"
+	},
+	"breed": "Canaan Dog",
+	"time": 0,
+	"money": 1346
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee97"
+	},
+	"breed": "Catahoula Leopard Dog",
+	"time": 9,
+	"money": 1213
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee98"
+	},
+	"breed": "Cavalier King Charles Spaniel",
+	"time": 5,
+	"money": 2052
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee99"
+	},
+	"breed": "Chesapeake Bay Retriever",
+	"time": 6,
+	"money": 30
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee9a"
+	},
+	"breed": "Chihuahua",
+	"time": 14,
+	"money": 3611
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee9b"
+	},
+	"breed": "Chinook",
+	"time": 13,
+	"money": 10
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee9c"
+	},
+	"breed": "Chow Chow",
+	"time": 1,
+	"money": 3189
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee9d"
+	},
+	"breed": "Clumber Spaniel",
+	"time": 15,
+	"money": 4155
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee9e"
+	},
+	"breed": "Cockapoo",
+	"time": 0,
+	"money": 4655
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77ee9f"
+	},
+	"breed": "Cocker Spaniel",
+	"time": 20,
+	"money": 2391
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77eea0"
+	},
+	"breed": "Collie",
+	"time": 12,
+	"money": 33
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77eea1"
+	},
+	"breed": "Coton de Tulear",
+	"time": 3,
+	"money": 3882
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77eea2"
+	},
+	"breed": "Curly-Coated Retriever",
+	"time": 1,
+	"money": 2050
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77eea3"
+	},
+	"breed": "Dachshund",
+	"time": 2,
+	"money": 3583
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77eea4"
+	},
+	"breed": "Dalmatian",
+	"time": 14,
+	"money": 1008
+},
+{
+	"_id": {
+		"$oid": "5b90e2bd50f9600e0c77eea5"
+	},
+	"breed": "Doberman Pinscher",
+	"time": 19,
+	"money": 3024
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eea6"
+	},
+	"breed": "Dogo Argentino",
+	"time": 10,
+	"money": 2266
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eea7"
+	},
+	"breed": "Dogue de Bordeaux",
+	"time": 20,
+	"money": 2061
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eea8"
+	},
+	"breed": "Dutch Shepherd",
+	"time": 4,
+	"money": 409
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eea9"
+	},
+	"breed": "English Cocker Spaniel",
+	"time": 11,
+	"money": 4787
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeaa"
+	},
+	"breed": "English Setter",
+	"time": 3,
+	"money": 1900
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeab"
+	},
+	"breed": "English Springer Spaniel",
+	"time": 24,
+	"money": 4951
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeac"
+	},
+	"breed": "English Toy Spaniel",
+	"time": 15,
+	"money": 3144
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eead"
+	},
+	"breed": "Field Spaniel",
+	"time": 17,
+	"money": 4137
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeae"
+	},
+	"breed": "Finnish Lapphund",
+	"time": 20,
+	"money": 4386
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeaf"
+	},
+	"breed": "Finnish Spitz",
+	"time": 13,
+	"money": 262
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeb0"
+	},
+	"breed": "Flat-Coated Retriever",
+	"time": 11,
+	"money": 2373
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeb1"
+	},
+	"breed": "Fox Terrier",
+	"time": 0,
+	"money": 2518
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeb2"
+	},
+	"breed": "French Bulldog",
+	"time": 11,
+	"money": 4361
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeb3"
+	},
+	"breed": "German Pinscher",
+	"time": 14,
+	"money": 3979
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeb4"
+	},
+	"breed": "German Shepherd Dog",
+	"time": 9,
+	"money": 4392
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeb5"
+	},
+	"breed": "German Shorthaired Pointer",
+	"time": 18,
+	"money": 4309
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeb6"
+	},
+	"breed": "German Wirehaired Pointer",
+	"time": 20,
+	"money": 2362
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeb7"
+	},
+	"breed": "Giant Schnauzer",
+	"time": 9,
+	"money": 57
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeb8"
+	},
+	"breed": "Glen of Imaal Terrier",
+	"time": 21,
+	"money": 139
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeb9"
+	},
+	"breed": "Golden Retriever",
+	"time": 17,
+	"money": 101
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eeba"
+	},
+	"breed": "Gordon Setter",
+	"time": 24,
+	"money": 1363
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eebb"
+	},
+	"breed": "Great Dane",
+	"time": 20,
+	"money": 3417
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eebc"
+	},
+	"breed": "Great Pyrenees",
+	"time": 3,
+	"money": 2364
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eebd"
+	},
+	"breed": "Greater Swiss Mountain Dog",
+	"time": 4,
+	"money": 365
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eebe"
+	},
+	"breed": "Greyhound",
+	"time": 21,
+	"money": 693
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eebf"
+	},
+	"breed": "Harrier",
+	"time": 20,
+	"money": 4776
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eec0"
+	},
+	"breed": "Havanese",
+	"time": 15,
+	"money": 3678
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eec1"
+	},
+	"breed": "Ibizan Hound",
+	"time": 23,
+	"money": 4078
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eec2"
+	},
+	"breed": "Icelandic Sheepdog",
+	"time": 5,
+	"money": 4640
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eec3"
+	},
+	"breed": "Irish Setter",
+	"time": 2,
+	"money": 3703
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eec4"
+	},
+	"breed": "Irish Terrier",
+	"time": 3,
+	"money": 3579
+},
+{
+	"_id": {
+		"$oid": "5b90e2be50f9600e0c77eec5"
+	},
+	"breed": "Irish Water Spaniel",
+	"time": 23,
+	"money": 2559
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eec6"
+	},
+	"breed": "Irish Wolfhound",
+	"time": 11,
+	"money": 3260
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eec7"
+	},
+	"breed": "Italian Greyhound",
+	"time": 1,
+	"money": 1293
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eec8"
+	},
+	"breed": "Jack Russell Terrier",
+	"time": 19,
+	"money": 4324
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eec9"
+	},
+	"breed": "Japanese Chin",
+	"time": 21,
+	"money": 1299
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eeca"
+	},
+	"breed": "Karelian Bear Dog",
+	"time": 13,
+	"money": 1395
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eecb"
+	},
+	"breed": "Keeshond",
+	"time": 11,
+	"money": 835
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eecc"
+	},
+	"breed": "Kerry Blue Terrier",
+	"time": 17,
+	"money": 1419
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eecd"
+	},
+	"breed": "Komondor",
+	"time": 21,
+	"money": 3391
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eece"
+	},
+	"breed": "Kuvasz",
+	"time": 18,
+	"money": 1271
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eecf"
+	},
+	"breed": "Labrador Retriever",
+	"time": 7,
+	"money": 3745
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eed0"
+	},
+	"breed": "Lakeland Terrier",
+	"time": 7,
+	"money": 1861
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eed1"
+	},
+	"breed": "Lancashire Heeler",
+	"time": 6,
+	"money": 2256
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eed2"
+	},
+	"breed": "Leonberger",
+	"time": 23,
+	"money": 816
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eed3"
+	},
+	"breed": "Lhasa Apso",
+	"time": 3,
+	"money": 3495
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eed4"
+	},
+	"breed": "Lowchen",
+	"time": 3,
+	"money": 4972
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eed5"
+	},
+	"breed": "Maltese",
+	"time": 17,
+	"money": 4112
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eed6"
+	},
+	"breed": "Manchester Terrier",
+	"time": 22,
+	"money": 2719
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eed7"
+	},
+	"breed": "Mastiff",
+	"time": 12,
+	"money": 1600
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eed8"
+	},
+	"breed": "Miniature Pinscher",
+	"time": 22,
+	"money": 766
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eed9"
+	},
+	"breed": "Miniature Schnauzer",
+	"time": 21,
+	"money": 4471
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eeda"
+	},
+	"breed": "Neapolitan Mastiff",
+	"time": 7,
+	"money": 760
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eedb"
+	},
+	"breed": "Norfolk Terrier",
+	"time": 11,
+	"money": 2141
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eedc"
+	},
+	"breed": "Norwegian Buhund",
+	"time": 2,
+	"money": 2915
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eedd"
+	},
+	"breed": "Norwegian Elkhound",
+	"time": 4,
+	"money": 3332
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eede"
+	},
+	"breed": "Norwegian Lundehund",
+	"time": 24,
+	"money": 3776
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eedf"
+	},
+	"breed": "Norwich Terrier",
+	"time": 15,
+	"money": 2959
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eee0"
+	},
+	"breed": "Nova Scotia Duck Tolling Retriever",
+	"time": 1,
+	"money": 3002
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eee1"
+	},
+	"breed": "Old English Sheepdog",
+	"time": 18,
+	"money": 2054
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eee2"
+	},
+	"breed": "Otterhound",
+	"time": 23,
+	"money": 2371
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eee3"
+	},
+	"breed": "Papillon",
+	"time": 14,
+	"money": 4346
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eee4"
+	},
+	"breed": "Pekingese",
+	"time": 12,
+	"money": 1429
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eee5"
+	},
+	"breed": "Petit Basset Griffon Vendeen",
+	"time": 8,
+	"money": 3713
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eee6"
+	},
+	"breed": "Pharaoh Hound",
+	"time": 13,
+	"money": 1605
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eee7"
+	},
+	"breed": "Pointer",
+	"time": 6,
+	"money": 1200
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eee8"
+	},
+	"breed": "Polish Lowland Sheepdog",
+	"time": 24,
+	"money": 1378
+},
+{
+	"_id": {
+		"$oid": "5b90e2bf50f9600e0c77eee9"
+	},
+	"breed": "Pomeranian",
+	"time": 8,
+	"money": 4128
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eeea"
+	},
+	"breed": "Poodle",
+	"time": 3,
+	"money": 1406
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eeeb"
+	},
+	"breed": "Portuguese Water Dog",
+	"time": 14,
+	"money": 4844
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eeec"
+	},
+	"breed": "Pug",
+	"time": 3,
+	"money": 358
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eeed"
+	},
+	"breed": "Puli",
+	"time": 11,
+	"money": 3699
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eeee"
+	},
+	"breed": "Rat Terrier",
+	"time": 22,
+	"money": 4517
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eeef"
+	},
+	"breed": "Redbone Coonhound",
+	"time": 7,
+	"money": 1786
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eef0"
+	},
+	"breed": "Rhodesian Ridgeback",
+	"time": 23,
+	"money": 701
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eef1"
+	},
+	"breed": "Rottweiler",
+	"time": 21,
+	"money": 55
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eef2"
+	},
+	"breed": "Saluki",
+	"time": 15,
+	"money": 4901
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eef3"
+	},
+	"breed": "Samoyed",
+	"time": 6,
+	"money": 4999
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eef4"
+	},
+	"breed": "Schipperke",
+	"time": 1,
+	"money": 4833
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eef5"
+	},
+	"breed": "Scottish Deerhound",
+	"time": 17,
+	"money": 951
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eef6"
+	},
+	"breed": "Sealyham Terrier",
+	"time": 5,
+	"money": 3895
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eef7"
+	},
+	"breed": "Shiba Inu",
+	"time": 17,
+	"money": 2288
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eef8"
+	},
+	"breed": "Shih Tzu",
+	"time": 14,
+	"money": 4825
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eef9"
+	},
+	"breed": "Siberian Husky",
+	"time": 0,
+	"money": 3865
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eefa"
+	},
+	"breed": "Silky Terrier",
+	"time": 19,
+	"money": 4420
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eefb"
+	},
+	"breed": "Skye Terrier",
+	"time": 17,
+	"money": 785
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eefc"
+	},
+	"breed": "Sloughi",
+	"time": 11,
+	"money": 926
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eefd"
+	},
+	"breed": "Staffordshire Bull Terrier",
+	"time": 11,
+	"money": 4634
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eefe"
+	},
+	"breed": "Standard Schnauzer",
+	"time": 14,
+	"money": 949
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77eeff"
+	},
+	"breed": "Sussex Spaniel",
+	"time": 17,
+	"money": 3529
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77ef00"
+	},
+	"breed": "Swedish Vallhund",
+	"time": 3,
+	"money": 3198
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77ef01"
+	},
+	"breed": "Tibetan Mastiff",
+	"time": 14,
+	"money": 2137
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77ef02"
+	},
+	"breed": "Tibetan Spaniel",
+	"time": 1,
+	"money": 4433
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77ef03"
+	},
+	"breed": "Tibetan Terrier",
+	"time": 10,
+	"money": 2888
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77ef04"
+	},
+	"breed": "Toy Fox Terrier",
+	"time": 7,
+	"money": 2624
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77ef05"
+	},
+	"breed": "Treeing Walker Coonhound",
+	"time": 16,
+	"money": 1623
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77ef06"
+	},
+	"breed": "Vizsla",
+	"time": 15,
+	"money": 2216
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77ef07"
+	},
+	"breed": "Weimaraner",
+	"time": 14,
+	"money": 4319
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77ef08"
+	},
+	"breed": "Welsh Springer Spaniel",
+	"time": 11,
+	"money": 4128
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77ef09"
+	},
+	"breed": "Welsh Terrier",
+	"time": 16,
+	"money": 4625
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77ef0a"
+	},
+	"breed": "Whippet",
+	"time": 18,
+	"money": 3522
+},
+{
+	"_id": {
+		"$oid": "5b90e2c050f9600e0c77ef0b"
+	},
+	"breed": "Wirehaired Pointing Griffon",
+	"time": 11,
+	"money": 2129
+},
+{
+	"_id": {
+		"$oid": "5b90e2c250f9600e0c77ef0c"
+	},
+	"breed": "Affenpinscher",
+	"time": 17,
+	"money": 2566
+},
+{
+	"_id": {
+		"$oid": "5b90e2c250f9600e0c77ef0d"
+	},
+	"breed": "Afghan Hound",
+	"time": 4,
+	"money": 1339
+},
+{
+	"_id": {
+		"$oid": "5b90e2c250f9600e0c77ef0e"
+	},
+	"breed": "Airedale Terrier",
+	"time": 5,
+	"money": 892
+},
+{
+	"_id": {
+		"$oid": "5b90e2c250f9600e0c77ef0f"
+	},
+	"breed": "Akita",
+	"time": 23,
+	"money": 4853
+},
+{
+	"_id": {
+		"$oid": "5b90e2c250f9600e0c77ef10"
+	},
+	"breed": "Alaskan Malamute",
+	"time": 2,
+	"money": 4255
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef11"
+	},
+	"breed": "American Bulldog",
+	"time": 23,
+	"money": 4668
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef12"
+	},
+	"breed": "American Eskimo Dog",
+	"time": 22,
+	"money": 4124
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef13"
+	},
+	"breed": "American Staffordshire Terrier",
+	"time": 17,
+	"money": 135
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef14"
+	},
+	"breed": "American Water Spaniel",
+	"time": 24,
+	"money": 431
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef15"
+	},
+	"breed": "Australian Kelpie",
+	"time": 11,
+	"money": 3542
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef16"
+	},
+	"breed": "Australian Shepherd",
+	"time": 24,
+	"money": 2325
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef17"
+	},
+	"breed": "Australian Terrier",
+	"time": 23,
+	"money": 1526
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef18"
+	},
+	"breed": "Basenji",
+	"time": 1,
+	"money": 3303
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef19"
+	},
+	"breed": "Basset Hound",
+	"time": 18,
+	"money": 2021
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef1a"
+	},
+	"breed": "Beagle",
+	"time": 2,
+	"money": 3584
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef1b"
+	},
+	"breed": "Bearded Collie",
+	"time": 7,
+	"money": 2707
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef1c"
+	},
+	"breed": "Bedlington Terrier",
+	"time": 12,
+	"money": 506
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef1d"
+	},
+	"breed": "Bernese Mountain Dog",
+	"time": 6,
+	"money": 3735
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef1e"
+	},
+	"breed": "Bichon Frise",
+	"time": 5,
+	"money": 1954
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef1f"
+	},
+	"breed": "Black and Tan Coonhound",
+	"time": 12,
+	"money": 3497
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef20"
+	},
+	"breed": "Black Mouth Cur",
+	"time": 15,
+	"money": 4817
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef21"
+	},
+	"breed": "Black Russian Terrier",
+	"time": 2,
+	"money": 3447
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef22"
+	},
+	"breed": "Bloodhound",
+	"time": 21,
+	"money": 2585
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef23"
+	},
+	"breed": "Blue Lacy",
+	"time": 18,
+	"money": 1827
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef24"
+	},
+	"breed": "Bluetick Coonhound",
+	"time": 11,
+	"money": 1383
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef25"
+	},
+	"breed": "Boerboel",
+	"time": 2,
+	"money": 2750
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef26"
+	},
+	"breed": "Bolognese",
+	"time": 23,
+	"money": 3847
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef27"
+	},
+	"breed": "Border Collie",
+	"time": 13,
+	"money": 3039
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef28"
+	},
+	"breed": "Border Terrier",
+	"time": 9,
+	"money": 2266
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef29"
+	},
+	"breed": "Borzoi",
+	"time": 4,
+	"money": 924
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef2a"
+	},
+	"breed": "Boston Terrier",
+	"time": 19,
+	"money": 3077
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef2b"
+	},
+	"breed": "Boxer",
+	"time": 18,
+	"money": 4404
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef2c"
+	},
+	"breed": "Boykin Spaniel",
+	"time": 12,
+	"money": 2840
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef2d"
+	},
+	"breed": "Briard",
+	"time": 11,
+	"money": 1209
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef2e"
+	},
+	"breed": "Brussels Griffon",
+	"time": 16,
+	"money": 225
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef2f"
+	},
+	"breed": "Bull Terrier",
+	"time": 12,
+	"money": 3274
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef30"
+	},
+	"breed": "Bullmastiff",
+	"time": 11,
+	"money": 306
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef31"
+	},
+	"breed": "Cairn Terrier",
+	"time": 1,
+	"money": 24
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef32"
+	},
+	"breed": "Canaan Dog",
+	"time": 14,
+	"money": 1387
+},
+{
+	"_id": {
+		"$oid": "5b90e2c350f9600e0c77ef33"
+	},
+	"breed": "Catahoula Leopard Dog",
+	"time": 10,
+	"money": 525
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef34"
+	},
+	"breed": "Cavalier King Charles Spaniel",
+	"time": 17,
+	"money": 2931
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef35"
+	},
+	"breed": "Chesapeake Bay Retriever",
+	"time": 0,
+	"money": 1009
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef36"
+	},
+	"breed": "Chihuahua",
+	"time": 3,
+	"money": 4463
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef37"
+	},
+	"breed": "Chinook",
+	"time": 16,
+	"money": 164
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef38"
+	},
+	"breed": "Chow Chow",
+	"time": 14,
+	"money": 584
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef39"
+	},
+	"breed": "Clumber Spaniel",
+	"time": 23,
+	"money": 287
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef3a"
+	},
+	"breed": "Cockapoo",
+	"time": 20,
+	"money": 4091
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef3b"
+	},
+	"breed": "Cocker Spaniel",
+	"time": 6,
+	"money": 4200
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef3c"
+	},
+	"breed": "Collie",
+	"time": 11,
+	"money": 2293
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef3d"
+	},
+	"breed": "Coton de Tulear",
+	"time": 1,
+	"money": 857
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef3e"
+	},
+	"breed": "Curly-Coated Retriever",
+	"time": 15,
+	"money": 3428
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef3f"
+	},
+	"breed": "Dachshund",
+	"time": 4,
+	"money": 3355
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef40"
+	},
+	"breed": "Dalmatian",
+	"time": 14,
+	"money": 3965
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef41"
+	},
+	"breed": "Doberman Pinscher",
+	"time": 18,
+	"money": 4098
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef42"
+	},
+	"breed": "Dogo Argentino",
+	"time": 16,
+	"money": 1365
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef43"
+	},
+	"breed": "Dogue de Bordeaux",
+	"time": 21,
+	"money": 1954
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef44"
+	},
+	"breed": "Dutch Shepherd",
+	"time": 9,
+	"money": 163
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef45"
+	},
+	"breed": "English Cocker Spaniel",
+	"time": 24,
+	"money": 1925
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef46"
+	},
+	"breed": "English Setter",
+	"time": 3,
+	"money": 3141
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef47"
+	},
+	"breed": "English Springer Spaniel",
+	"time": 3,
+	"money": 4141
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef48"
+	},
+	"breed": "English Toy Spaniel",
+	"time": 2,
+	"money": 4533
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef49"
+	},
+	"breed": "Field Spaniel",
+	"time": 6,
+	"money": 3943
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef4a"
+	},
+	"breed": "Finnish Lapphund",
+	"time": 0,
+	"money": 3559
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef4b"
+	},
+	"breed": "Finnish Spitz",
+	"time": 21,
+	"money": 180
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef4c"
+	},
+	"breed": "Flat-Coated Retriever",
+	"time": 2,
+	"money": 2698
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef4d"
+	},
+	"breed": "Fox Terrier",
+	"time": 4,
+	"money": 4992
+},
+{
+	"_id": {
+		"$oid": "5b90e2c450f9600e0c77ef4e"
+	},
+	"breed": "French Bulldog",
+	"time": 2,
+	"money": 1478
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef4f"
+	},
+	"breed": "German Pinscher",
+	"time": 1,
+	"money": 3172
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef50"
+	},
+	"breed": "German Shepherd Dog",
+	"time": 16,
+	"money": 3476
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef51"
+	},
+	"breed": "German Shorthaired Pointer",
+	"time": 9,
+	"money": 1441
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef52"
+	},
+	"breed": "German Wirehaired Pointer",
+	"time": 19,
+	"money": 4501
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef53"
+	},
+	"breed": "Giant Schnauzer",
+	"time": 3,
+	"money": 3954
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef54"
+	},
+	"breed": "Glen of Imaal Terrier",
+	"time": 3,
+	"money": 1702
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef55"
+	},
+	"breed": "Golden Retriever",
+	"time": 8,
+	"money": 4475
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef56"
+	},
+	"breed": "Gordon Setter",
+	"time": 0,
+	"money": 2944
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef57"
+	},
+	"breed": "Great Dane",
+	"time": 4,
+	"money": 1359
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef58"
+	},
+	"breed": "Great Pyrenees",
+	"time": 23,
+	"money": 1512
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef59"
+	},
+	"breed": "Greater Swiss Mountain Dog",
+	"time": 2,
+	"money": 2405
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef5a"
+	},
+	"breed": "Greyhound",
+	"time": 4,
+	"money": 4586
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef5b"
+	},
+	"breed": "Harrier",
+	"time": 0,
+	"money": 4256
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef5c"
+	},
+	"breed": "Havanese",
+	"time": 5,
+	"money": 450
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef5d"
+	},
+	"breed": "Ibizan Hound",
+	"time": 18,
+	"money": 924
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef5e"
+	},
+	"breed": "Icelandic Sheepdog",
+	"time": 1,
+	"money": 1687
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef5f"
+	},
+	"breed": "Irish Setter",
+	"time": 18,
+	"money": 1754
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef60"
+	},
+	"breed": "Irish Terrier",
+	"time": 22,
+	"money": 2384
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef61"
+	},
+	"breed": "Irish Water Spaniel",
+	"time": 1,
+	"money": 4232
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef62"
+	},
+	"breed": "Irish Wolfhound",
+	"time": 24,
+	"money": 3271
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef63"
+	},
+	"breed": "Italian Greyhound",
+	"time": 5,
+	"money": 4379
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef64"
+	},
+	"breed": "Jack Russell Terrier",
+	"time": 9,
+	"money": 4089
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef65"
+	},
+	"breed": "Japanese Chin",
+	"time": 0,
+	"money": 4756
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef66"
+	},
+	"breed": "Karelian Bear Dog",
+	"time": 9,
+	"money": 1457
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef67"
+	},
+	"breed": "Keeshond",
+	"time": 16,
+	"money": 1405
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef68"
+	},
+	"breed": "Kerry Blue Terrier",
+	"time": 14,
+	"money": 3154
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef69"
+	},
+	"breed": "Komondor",
+	"time": 7,
+	"money": 3981
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef6a"
+	},
+	"breed": "Kuvasz",
+	"time": 8,
+	"money": 1653
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef6b"
+	},
+	"breed": "Labrador Retriever",
+	"time": 4,
+	"money": 3581
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef6c"
+	},
+	"breed": "Lakeland Terrier",
+	"time": 2,
+	"money": 4153
+},
+{
+	"_id": {
+		"$oid": "5b90e2c550f9600e0c77ef6d"
+	},
+	"breed": "Lancashire Heeler",
+	"time": 19,
+	"money": 358
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef6e"
+	},
+	"breed": "Leonberger",
+	"time": 1,
+	"money": 3948
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef6f"
+	},
+	"breed": "Lhasa Apso",
+	"time": 10,
+	"money": 1022
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef70"
+	},
+	"breed": "Lowchen",
+	"time": 2,
+	"money": 2349
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef71"
+	},
+	"breed": "Maltese",
+	"time": 6,
+	"money": 1899
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef72"
+	},
+	"breed": "Manchester Terrier",
+	"time": 9,
+	"money": 1355
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef73"
+	},
+	"breed": "Mastiff",
+	"time": 17,
+	"money": 1263
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef74"
+	},
+	"breed": "Miniature Pinscher",
+	"time": 19,
+	"money": 3251
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef75"
+	},
+	"breed": "Miniature Schnauzer",
+	"time": 3,
+	"money": 2672
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef76"
+	},
+	"breed": "Neapolitan Mastiff",
+	"time": 7,
+	"money": 4329
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef77"
+	},
+	"breed": "Norfolk Terrier",
+	"time": 19,
+	"money": 3592
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef78"
+	},
+	"breed": "Norwegian Buhund",
+	"time": 23,
+	"money": 957
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef79"
+	},
+	"breed": "Norwegian Elkhound",
+	"time": 15,
+	"money": 1410
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef7a"
+	},
+	"breed": "Norwegian Lundehund",
+	"time": 2,
+	"money": 507
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef7b"
+	},
+	"breed": "Norwich Terrier",
+	"time": 0,
+	"money": 1757
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef7c"
+	},
+	"breed": "Nova Scotia Duck Tolling Retriever",
+	"time": 24,
+	"money": 4642
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef7d"
+	},
+	"breed": "Old English Sheepdog",
+	"time": 0,
+	"money": 1986
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef7e"
+	},
+	"breed": "Otterhound",
+	"time": 24,
+	"money": 4394
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef7f"
+	},
+	"breed": "Papillon",
+	"time": 24,
+	"money": 4645
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef80"
+	},
+	"breed": "Pekingese",
+	"time": 24,
+	"money": 4953
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef81"
+	},
+	"breed": "Petit Basset Griffon Vendeen",
+	"time": 16,
+	"money": 4566
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef82"
+	},
+	"breed": "Pharaoh Hound",
+	"time": 18,
+	"money": 4101
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef83"
+	},
+	"breed": "Pointer",
+	"time": 16,
+	"money": 55
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef84"
+	},
+	"breed": "Polish Lowland Sheepdog",
+	"time": 3,
+	"money": 4636
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef85"
+	},
+	"breed": "Pomeranian",
+	"time": 10,
+	"money": 4523
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef86"
+	},
+	"breed": "Poodle",
+	"time": 21,
+	"money": 298
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef87"
+	},
+	"breed": "Portuguese Water Dog",
+	"time": 20,
+	"money": 2049
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef88"
+	},
+	"breed": "Pug",
+	"time": 6,
+	"money": 4130
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef89"
+	},
+	"breed": "Puli",
+	"time": 5,
+	"money": 248
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef8a"
+	},
+	"breed": "Rat Terrier",
+	"time": 24,
+	"money": 4401
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef8b"
+	},
+	"breed": "Redbone Coonhound",
+	"time": 19,
+	"money": 3293
+},
+{
+	"_id": {
+		"$oid": "5b90e2c650f9600e0c77ef8c"
+	},
+	"breed": "Rhodesian Ridgeback",
+	"time": 16,
+	"money": 1699
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef8d"
+	},
+	"breed": "Rottweiler",
+	"time": 2,
+	"money": 1979
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef8e"
+	},
+	"breed": "Saluki",
+	"time": 14,
+	"money": 2552
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef8f"
+	},
+	"breed": "Samoyed",
+	"time": 9,
+	"money": 3272
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef90"
+	},
+	"breed": "Schipperke",
+	"time": 23,
+	"money": 2982
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef91"
+	},
+	"breed": "Scottish Deerhound",
+	"time": 10,
+	"money": 4693
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef92"
+	},
+	"breed": "Sealyham Terrier",
+	"time": 8,
+	"money": 1638
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef93"
+	},
+	"breed": "Shiba Inu",
+	"time": 20,
+	"money": 1657
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef94"
+	},
+	"breed": "Shih Tzu",
+	"time": 10,
+	"money": 4662
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef95"
+	},
+	"breed": "Siberian Husky",
+	"time": 3,
+	"money": 2754
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef96"
+	},
+	"breed": "Silky Terrier",
+	"time": 9,
+	"money": 3100
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef97"
+	},
+	"breed": "Skye Terrier",
+	"time": 19,
+	"money": 2949
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef98"
+	},
+	"breed": "Sloughi",
+	"time": 17,
+	"money": 2992
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef99"
+	},
+	"breed": "Staffordshire Bull Terrier",
+	"time": 19,
+	"money": 1527
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef9a"
+	},
+	"breed": "Standard Schnauzer",
+	"time": 17,
+	"money": 421
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef9b"
+	},
+	"breed": "Sussex Spaniel",
+	"time": 2,
+	"money": 3986
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef9c"
+	},
+	"breed": "Swedish Vallhund",
+	"time": 7,
+	"money": 4240
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef9d"
+	},
+	"breed": "Tibetan Mastiff",
+	"time": 11,
+	"money": 623
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef9e"
+	},
+	"breed": "Tibetan Spaniel",
+	"time": 18,
+	"money": 1487
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77ef9f"
+	},
+	"breed": "Tibetan Terrier",
+	"time": 14,
+	"money": 4798
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77efa0"
+	},
+	"breed": "Toy Fox Terrier",
+	"time": 8,
+	"money": 4374
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77efa1"
+	},
+	"breed": "Treeing Walker Coonhound",
+	"time": 23,
+	"money": 1727
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77efa2"
+	},
+	"breed": "Vizsla",
+	"time": 16,
+	"money": 4361
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77efa3"
+	},
+	"breed": "Weimaraner",
+	"time": 17,
+	"money": 3546
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77efa4"
+	},
+	"breed": "Welsh Springer Spaniel",
+	"time": 3,
+	"money": 2029
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77efa5"
+	},
+	"breed": "Welsh Terrier",
+	"time": 9,
+	"money": 3916
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77efa6"
+	},
+	"breed": "Whippet",
+	"time": 11,
+	"money": 4603
+},
+{
+	"_id": {
+		"$oid": "5b90e2c750f9600e0c77efa7"
+	},
+	"breed": "Wirehaired Pointing Griffon",
+	"time": 16,
+	"money": 2589
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efa8"
+	},
+	"breed": "Affenpinscher",
+	"time": 3,
+	"money": 4537
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efa9"
+	},
+	"breed": "Afghan Hound",
+	"time": 6,
+	"money": 3805
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efaa"
+	},
+	"breed": "Airedale Terrier",
+	"time": 6,
+	"money": 4538
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efab"
+	},
+	"breed": "Akita",
+	"time": 20,
+	"money": 4321
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efac"
+	},
+	"breed": "Alaskan Malamute",
+	"time": 22,
+	"money": 4044
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efad"
+	},
+	"breed": "American Bulldog",
+	"time": 4,
+	"money": 523
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efae"
+	},
+	"breed": "American Eskimo Dog",
+	"time": 12,
+	"money": 2868
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efaf"
+	},
+	"breed": "American Staffordshire Terrier",
+	"time": 20,
+	"money": 2076
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efb0"
+	},
+	"breed": "American Water Spaniel",
+	"time": 14,
+	"money": 2004
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efb1"
+	},
+	"breed": "Australian Kelpie",
+	"time": 16,
+	"money": 142
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efb2"
+	},
+	"breed": "Australian Shepherd",
+	"time": 9,
+	"money": 1299
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efb3"
+	},
+	"breed": "Australian Terrier",
+	"time": 12,
+	"money": 3077
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efb4"
+	},
+	"breed": "Basenji",
+	"time": 14,
+	"money": 3948
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efb5"
+	},
+	"breed": "Basset Hound",
+	"time": 18,
+	"money": 3761
+},
+{
+	"_id": {
+		"$oid": "5b90e2ca50f9600e0c77efb6"
+	},
+	"breed": "Beagle",
+	"time": 12,
+	"money": 1617
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efb7"
+	},
+	"breed": "Bearded Collie",
+	"time": 10,
+	"money": 3721
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efb8"
+	},
+	"breed": "Bedlington Terrier",
+	"time": 16,
+	"money": 523
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efb9"
+	},
+	"breed": "Bernese Mountain Dog",
+	"time": 1,
+	"money": 4315
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efba"
+	},
+	"breed": "Bichon Frise",
+	"time": 14,
+	"money": 481
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efbb"
+	},
+	"breed": "Black and Tan Coonhound",
+	"time": 7,
+	"money": 1539
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efbc"
+	},
+	"breed": "Black Mouth Cur",
+	"time": 5,
+	"money": 2618
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efbd"
+	},
+	"breed": "Black Russian Terrier",
+	"time": 22,
+	"money": 1817
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efbe"
+	},
+	"breed": "Bloodhound",
+	"time": 11,
+	"money": 892
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efbf"
+	},
+	"breed": "Blue Lacy",
+	"time": 9,
+	"money": 3191
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efc0"
+	},
+	"breed": "Bluetick Coonhound",
+	"time": 23,
+	"money": 2952
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efc1"
+	},
+	"breed": "Boerboel",
+	"time": 3,
+	"money": 4791
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efc2"
+	},
+	"breed": "Bolognese",
+	"time": 10,
+	"money": 1071
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efc3"
+	},
+	"breed": "Border Collie",
+	"time": 22,
+	"money": 767
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efc4"
+	},
+	"breed": "Border Terrier",
+	"time": 12,
+	"money": 2628
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efc5"
+	},
+	"breed": "Borzoi",
+	"time": 15,
+	"money": 2020
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efc6"
+	},
+	"breed": "Boston Terrier",
+	"time": 13,
+	"money": 1285
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efc7"
+	},
+	"breed": "Boxer",
+	"time": 4,
+	"money": 2869
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efc8"
+	},
+	"breed": "Boykin Spaniel",
+	"time": 5,
+	"money": 4888
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efc9"
+	},
+	"breed": "Briard",
+	"time": 9,
+	"money": 1822
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efca"
+	},
+	"breed": "Brussels Griffon",
+	"time": 19,
+	"money": 2270
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efcb"
+	},
+	"breed": "Bull Terrier",
+	"time": 7,
+	"money": 2230
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efcc"
+	},
+	"breed": "Bullmastiff",
+	"time": 14,
+	"money": 3964
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efcd"
+	},
+	"breed": "Cairn Terrier",
+	"time": 21,
+	"money": 4696
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efce"
+	},
+	"breed": "Canaan Dog",
+	"time": 11,
+	"money": 4110
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efcf"
+	},
+	"breed": "Catahoula Leopard Dog",
+	"time": 19,
+	"money": 1962
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efd0"
+	},
+	"breed": "Cavalier King Charles Spaniel",
+	"time": 7,
+	"money": 3646
+},
+{
+	"_id": {
+		"$oid": "5b90e2cb50f9600e0c77efd1"
+	},
+	"breed": "Chesapeake Bay Retriever",
+	"time": 3,
+	"money": 1405
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efd2"
+	},
+	"breed": "Chihuahua",
+	"time": 4,
+	"money": 1155
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efd3"
+	},
+	"breed": "Chinook",
+	"time": 23,
+	"money": 2060
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efd4"
+	},
+	"breed": "Chow Chow",
+	"time": 16,
+	"money": 3523
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efd5"
+	},
+	"breed": "Clumber Spaniel",
+	"time": 17,
+	"money": 1404
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efd6"
+	},
+	"breed": "Cockapoo",
+	"time": 17,
+	"money": 32
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efd7"
+	},
+	"breed": "Cocker Spaniel",
+	"time": 15,
+	"money": 3309
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efd8"
+	},
+	"breed": "Collie",
+	"time": 1,
+	"money": 1222
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efd9"
+	},
+	"breed": "Coton de Tulear",
+	"time": 13,
+	"money": 1508
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efda"
+	},
+	"breed": "Curly-Coated Retriever",
+	"time": 0,
+	"money": 4655
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efdb"
+	},
+	"breed": "Dachshund",
+	"time": 10,
+	"money": 519
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efdc"
+	},
+	"breed": "Dalmatian",
+	"time": 20,
+	"money": 4983
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efdd"
+	},
+	"breed": "Doberman Pinscher",
+	"time": 22,
+	"money": 2804
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efde"
+	},
+	"breed": "Dogo Argentino",
+	"time": 13,
+	"money": 1247
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efdf"
+	},
+	"breed": "Dogue de Bordeaux",
+	"time": 1,
+	"money": 1613
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efe0"
+	},
+	"breed": "Dutch Shepherd",
+	"time": 15,
+	"money": 4172
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efe1"
+	},
+	"breed": "English Cocker Spaniel",
+	"time": 11,
+	"money": 931
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efe2"
+	},
+	"breed": "English Setter",
+	"time": 20,
+	"money": 3007
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efe3"
+	},
+	"breed": "English Springer Spaniel",
+	"time": 13,
+	"money": 1926
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efe4"
+	},
+	"breed": "English Toy Spaniel",
+	"time": 18,
+	"money": 641
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efe5"
+	},
+	"breed": "Field Spaniel",
+	"time": 24,
+	"money": 1398
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efe6"
+	},
+	"breed": "Finnish Lapphund",
+	"time": 8,
+	"money": 3940
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efe7"
+	},
+	"breed": "Finnish Spitz",
+	"time": 17,
+	"money": 509
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efe8"
+	},
+	"breed": "Flat-Coated Retriever",
+	"time": 8,
+	"money": 141
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efe9"
+	},
+	"breed": "Fox Terrier",
+	"time": 23,
+	"money": 2136
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efea"
+	},
+	"breed": "French Bulldog",
+	"time": 12,
+	"money": 4950
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efeb"
+	},
+	"breed": "German Pinscher",
+	"time": 3,
+	"money": 3895
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efec"
+	},
+	"breed": "German Shepherd Dog",
+	"time": 6,
+	"money": 1266
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efed"
+	},
+	"breed": "German Shorthaired Pointer",
+	"time": 1,
+	"money": 1095
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efee"
+	},
+	"breed": "German Wirehaired Pointer",
+	"time": 22,
+	"money": 3805
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77efef"
+	},
+	"breed": "Giant Schnauzer",
+	"time": 23,
+	"money": 3370
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77eff0"
+	},
+	"breed": "Glen of Imaal Terrier",
+	"time": 11,
+	"money": 398
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77eff1"
+	},
+	"breed": "Golden Retriever",
+	"time": 9,
+	"money": 782
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77eff2"
+	},
+	"breed": "Gordon Setter",
+	"time": 20,
+	"money": 2103
+},
+{
+	"_id": {
+		"$oid": "5b90e2cc50f9600e0c77eff3"
+	},
+	"breed": "Great Dane",
+	"time": 15,
+	"money": 2095
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77eff4"
+	},
+	"breed": "Great Pyrenees",
+	"time": 11,
+	"money": 4127
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77eff5"
+	},
+	"breed": "Greater Swiss Mountain Dog",
+	"time": 7,
+	"money": 449
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77eff6"
+	},
+	"breed": "Greyhound",
+	"time": 23,
+	"money": 2480
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77eff7"
+	},
+	"breed": "Harrier",
+	"time": 5,
+	"money": 4456
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77eff8"
+	},
+	"breed": "Havanese",
+	"time": 4,
+	"money": 2827
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77eff9"
+	},
+	"breed": "Ibizan Hound",
+	"time": 17,
+	"money": 1684
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77effa"
+	},
+	"breed": "Icelandic Sheepdog",
+	"time": 18,
+	"money": 1644
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77effb"
+	},
+	"breed": "Irish Setter",
+	"time": 7,
+	"money": 4131
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77effc"
+	},
+	"breed": "Irish Terrier",
+	"time": 11,
+	"money": 1957
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77effd"
+	},
+	"breed": "Irish Water Spaniel",
+	"time": 1,
+	"money": 889
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77effe"
+	},
+	"breed": "Irish Wolfhound",
+	"time": 4,
+	"money": 4821
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77efff"
+	},
+	"breed": "Italian Greyhound",
+	"time": 20,
+	"money": 414
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f000"
+	},
+	"breed": "Jack Russell Terrier",
+	"time": 19,
+	"money": 2506
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f001"
+	},
+	"breed": "Japanese Chin",
+	"time": 3,
+	"money": 4751
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f002"
+	},
+	"breed": "Karelian Bear Dog",
+	"time": 3,
+	"money": 723
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f003"
+	},
+	"breed": "Keeshond",
+	"time": 4,
+	"money": 827
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f004"
+	},
+	"breed": "Kerry Blue Terrier",
+	"time": 17,
+	"money": 4665
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f005"
+	},
+	"breed": "Komondor",
+	"time": 14,
+	"money": 2118
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f006"
+	},
+	"breed": "Kuvasz",
+	"time": 18,
+	"money": 1406
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f007"
+	},
+	"breed": "Labrador Retriever",
+	"time": 10,
+	"money": 3741
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f008"
+	},
+	"breed": "Lakeland Terrier",
+	"time": 11,
+	"money": 2498
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f009"
+	},
+	"breed": "Lancashire Heeler",
+	"time": 11,
+	"money": 4088
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f00a"
+	},
+	"breed": "Leonberger",
+	"time": 15,
+	"money": 875
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f00b"
+	},
+	"breed": "Lhasa Apso",
+	"time": 7,
+	"money": 1202
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f00c"
+	},
+	"breed": "Lowchen",
+	"time": 15,
+	"money": 2785
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f00d"
+	},
+	"breed": "Maltese",
+	"time": 2,
+	"money": 3921
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f00e"
+	},
+	"breed": "Manchester Terrier",
+	"time": 9,
+	"money": 3113
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f00f"
+	},
+	"breed": "Mastiff",
+	"time": 2,
+	"money": 23
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f010"
+	},
+	"breed": "Miniature Pinscher",
+	"time": 10,
+	"money": 4616
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f011"
+	},
+	"breed": "Miniature Schnauzer",
+	"time": 9,
+	"money": 1402
+},
+{
+	"_id": {
+		"$oid": "5b90e2cd50f9600e0c77f012"
+	},
+	"breed": "Neapolitan Mastiff",
+	"time": 9,
+	"money": 2950
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f013"
+	},
+	"breed": "Norfolk Terrier",
+	"time": 16,
+	"money": 874
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f014"
+	},
+	"breed": "Norwegian Buhund",
+	"time": 24,
+	"money": 2061
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f015"
+	},
+	"breed": "Norwegian Elkhound",
+	"time": 6,
+	"money": 3438
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f016"
+	},
+	"breed": "Norwegian Lundehund",
+	"time": 23,
+	"money": 3490
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f017"
+	},
+	"breed": "Norwich Terrier",
+	"time": 23,
+	"money": 18
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f018"
+	},
+	"breed": "Nova Scotia Duck Tolling Retriever",
+	"time": 4,
+	"money": 3533
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f019"
+	},
+	"breed": "Old English Sheepdog",
+	"time": 6,
+	"money": 775
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f01a"
+	},
+	"breed": "Otterhound",
+	"time": 14,
+	"money": 1908
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f01b"
+	},
+	"breed": "Papillon",
+	"time": 21,
+	"money": 3491
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f01c"
+	},
+	"breed": "Pekingese",
+	"time": 6,
+	"money": 4382
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f01d"
+	},
+	"breed": "Petit Basset Griffon Vendeen",
+	"time": 2,
+	"money": 1445
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f01e"
+	},
+	"breed": "Pharaoh Hound",
+	"time": 21,
+	"money": 1660
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f01f"
+	},
+	"breed": "Pointer",
+	"time": 8,
+	"money": 1769
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f020"
+	},
+	"breed": "Polish Lowland Sheepdog",
+	"time": 2,
+	"money": 1840
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f021"
+	},
+	"breed": "Pomeranian",
+	"time": 18,
+	"money": 4556
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f022"
+	},
+	"breed": "Poodle",
+	"time": 11,
+	"money": 2525
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f023"
+	},
+	"breed": "Portuguese Water Dog",
+	"time": 10,
+	"money": 514
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f024"
+	},
+	"breed": "Pug",
+	"time": 6,
+	"money": 1720
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f025"
+	},
+	"breed": "Puli",
+	"time": 22,
+	"money": 2997
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f026"
+	},
+	"breed": "Rat Terrier",
+	"time": 24,
+	"money": 656
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f027"
+	},
+	"breed": "Redbone Coonhound",
+	"time": 19,
+	"money": 2354
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f028"
+	},
+	"breed": "Rhodesian Ridgeback",
+	"time": 17,
+	"money": 1935
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f029"
+	},
+	"breed": "Rottweiler",
+	"time": 20,
+	"money": 3366
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f02a"
+	},
+	"breed": "Saluki",
+	"time": 15,
+	"money": 3255
+},
+{
+	"_id": {
+		"$oid": "5b90e2ce50f9600e0c77f02b"
+	},
+	"breed": "Samoyed",
+	"time": 2,
+	"money": 3313
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f02c"
+	},
+	"breed": "Schipperke",
+	"time": 23,
+	"money": 1058
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f02d"
+	},
+	"breed": "Scottish Deerhound",
+	"time": 16,
+	"money": 602
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f02e"
+	},
+	"breed": "Sealyham Terrier",
+	"time": 18,
+	"money": 937
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f02f"
+	},
+	"breed": "Shiba Inu",
+	"time": 14,
+	"money": 3123
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f030"
+	},
+	"breed": "Shih Tzu",
+	"time": 23,
+	"money": 3
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f031"
+	},
+	"breed": "Siberian Husky",
+	"time": 2,
+	"money": 369
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f032"
+	},
+	"breed": "Silky Terrier",
+	"time": 23,
+	"money": 4845
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f033"
+	},
+	"breed": "Skye Terrier",
+	"time": 13,
+	"money": 3144
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f034"
+	},
+	"breed": "Sloughi",
+	"time": 8,
+	"money": 4347
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f035"
+	},
+	"breed": "Staffordshire Bull Terrier",
+	"time": 7,
+	"money": 2759
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f036"
+	},
+	"breed": "Standard Schnauzer",
+	"time": 18,
+	"money": 3369
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f037"
+	},
+	"breed": "Sussex Spaniel",
+	"time": 11,
+	"money": 1451
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f038"
+	},
+	"breed": "Swedish Vallhund",
+	"time": 24,
+	"money": 361
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f039"
+	},
+	"breed": "Tibetan Mastiff",
+	"time": 10,
+	"money": 1843
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f03a"
+	},
+	"breed": "Tibetan Spaniel",
+	"time": 5,
+	"money": 2679
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f03b"
+	},
+	"breed": "Tibetan Terrier",
+	"time": 10,
+	"money": 2216
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f03c"
+	},
+	"breed": "Toy Fox Terrier",
+	"time": 13,
+	"money": 1124
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f03d"
+	},
+	"breed": "Treeing Walker Coonhound",
+	"time": 20,
+	"money": 3763
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f03e"
+	},
+	"breed": "Vizsla",
+	"time": 8,
+	"money": 477
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f03f"
+	},
+	"breed": "Weimaraner",
+	"time": 14,
+	"money": 3938
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f040"
+	},
+	"breed": "Welsh Springer Spaniel",
+	"time": 11,
+	"money": 4432
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f041"
+	},
+	"breed": "Welsh Terrier",
+	"time": 19,
+	"money": 4408
+},
+{
+	"_id": {
+		"$oid": "5b90e2cf50f9600e0c77f042"
+	},
+	"breed": "Whippet",
+	"time": 14,
+	"money": 4947
+},
+{
+	"_id": {
+		"$oid": "5b90e2d050f9600e0c77f043"
+	},
+	"breed": "Wirehaired Pointing Griffon",
+	"time": 10,
+	"money": 3045
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f044"
+	},
+	"breed": "Affenpinscher",
+	"time": 21,
+	"money": 2011
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f045"
+	},
+	"breed": "Afghan Hound",
+	"time": 1,
+	"money": 2066
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f046"
+	},
+	"breed": "Airedale Terrier",
+	"time": 7,
+	"money": 1030
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f047"
+	},
+	"breed": "Akita",
+	"time": 0,
+	"money": 3792
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f048"
+	},
+	"breed": "Alaskan Malamute",
+	"time": 19,
+	"money": 2738
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f049"
+	},
+	"breed": "American Bulldog",
+	"time": 6,
+	"money": 315
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f04a"
+	},
+	"breed": "American Eskimo Dog",
+	"time": 20,
+	"money": 4790
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f04b"
+	},
+	"breed": "American Staffordshire Terrier",
+	"time": 22,
+	"money": 314
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f04c"
+	},
+	"breed": "American Water Spaniel",
+	"time": 12,
+	"money": 672
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f04d"
+	},
+	"breed": "Australian Kelpie",
+	"time": 21,
+	"money": 1205
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f04e"
+	},
+	"breed": "Australian Shepherd",
+	"time": 16,
+	"money": 2471
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f04f"
+	},
+	"breed": "Australian Terrier",
+	"time": 3,
+	"money": 2783
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f050"
+	},
+	"breed": "Basenji",
+	"time": 24,
+	"money": 4062
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f051"
+	},
+	"breed": "Basset Hound",
+	"time": 2,
+	"money": 4469
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f052"
+	},
+	"breed": "Beagle",
+	"time": 24,
+	"money": 2774
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f053"
+	},
+	"breed": "Bearded Collie",
+	"time": 6,
+	"money": 4385
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f054"
+	},
+	"breed": "Bedlington Terrier",
+	"time": 11,
+	"money": 1517
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f055"
+	},
+	"breed": "Bernese Mountain Dog",
+	"time": 22,
+	"money": 2921
+},
+{
+	"_id": {
+		"$oid": "5b90e2d250f9600e0c77f056"
+	},
+	"breed": "Bichon Frise",
+	"time": 22,
+	"money": 3578
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f057"
+	},
+	"breed": "Black and Tan Coonhound",
+	"time": 20,
+	"money": 2897
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f058"
+	},
+	"breed": "Black Mouth Cur",
+	"time": 0,
+	"money": 137
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f059"
+	},
+	"breed": "Black Russian Terrier",
+	"time": 23,
+	"money": 4971
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f05a"
+	},
+	"breed": "Bloodhound",
+	"time": 19,
+	"money": 736
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f05b"
+	},
+	"breed": "Blue Lacy",
+	"time": 23,
+	"money": 3202
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f05c"
+	},
+	"breed": "Bluetick Coonhound",
+	"time": 4,
+	"money": 4746
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f05d"
+	},
+	"breed": "Boerboel",
+	"time": 13,
+	"money": 4635
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f05e"
+	},
+	"breed": "Bolognese",
+	"time": 16,
+	"money": 2463
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f05f"
+	},
+	"breed": "Border Collie",
+	"time": 6,
+	"money": 3121
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f060"
+	},
+	"breed": "Border Terrier",
+	"time": 4,
+	"money": 2060
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f061"
+	},
+	"breed": "Borzoi",
+	"time": 0,
+	"money": 472
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f062"
+	},
+	"breed": "Boston Terrier",
+	"time": 23,
+	"money": 27
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f063"
+	},
+	"breed": "Boxer",
+	"time": 22,
+	"money": 3894
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f064"
+	},
+	"breed": "Boykin Spaniel",
+	"time": 5,
+	"money": 3746
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f065"
+	},
+	"breed": "Briard",
+	"time": 24,
+	"money": 294
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f066"
+	},
+	"breed": "Brussels Griffon",
+	"time": 2,
+	"money": 2392
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f067"
+	},
+	"breed": "Bull Terrier",
+	"time": 11,
+	"money": 1995
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f068"
+	},
+	"breed": "Bullmastiff",
+	"time": 4,
+	"money": 1042
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f069"
+	},
+	"breed": "Cairn Terrier",
+	"time": 20,
+	"money": 546
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f06a"
+	},
+	"breed": "Canaan Dog",
+	"time": 24,
+	"money": 4432
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f06b"
+	},
+	"breed": "Catahoula Leopard Dog",
+	"time": 10,
+	"money": 4965
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f06c"
+	},
+	"breed": "Cavalier King Charles Spaniel",
+	"time": 6,
+	"money": 2309
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f06d"
+	},
+	"breed": "Chesapeake Bay Retriever",
+	"time": 8,
+	"money": 1108
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f06e"
+	},
+	"breed": "Chihuahua",
+	"time": 17,
+	"money": 3936
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f06f"
+	},
+	"breed": "Chinook",
+	"time": 6,
+	"money": 3888
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f070"
+	},
+	"breed": "Chow Chow",
+	"time": 13,
+	"money": 1803
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f071"
+	},
+	"breed": "Clumber Spaniel",
+	"time": 10,
+	"money": 1901
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f072"
+	},
+	"breed": "Cockapoo",
+	"time": 2,
+	"money": 1297
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f073"
+	},
+	"breed": "Cocker Spaniel",
+	"time": 1,
+	"money": 4061
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f074"
+	},
+	"breed": "Collie",
+	"time": 3,
+	"money": 153
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f075"
+	},
+	"breed": "Coton de Tulear",
+	"time": 1,
+	"money": 3368
+},
+{
+	"_id": {
+		"$oid": "5b90e2d350f9600e0c77f076"
+	},
+	"breed": "Curly-Coated Retriever",
+	"time": 24,
+	"money": 4045
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f077"
+	},
+	"breed": "Dachshund",
+	"time": 20,
+	"money": 1108
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f078"
+	},
+	"breed": "Dalmatian",
+	"time": 14,
+	"money": 3193
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f079"
+	},
+	"breed": "Doberman Pinscher",
+	"time": 12,
+	"money": 1658
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f07a"
+	},
+	"breed": "Dogo Argentino",
+	"time": 17,
+	"money": 664
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f07b"
+	},
+	"breed": "Dogue de Bordeaux",
+	"time": 24,
+	"money": 3556
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f07c"
+	},
+	"breed": "Dutch Shepherd",
+	"time": 6,
+	"money": 2692
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f07d"
+	},
+	"breed": "English Cocker Spaniel",
+	"time": 16,
+	"money": 4143
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f07e"
+	},
+	"breed": "English Setter",
+	"time": 19,
+	"money": 2468
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f07f"
+	},
+	"breed": "English Springer Spaniel",
+	"time": 24,
+	"money": 3694
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f080"
+	},
+	"breed": "English Toy Spaniel",
+	"time": 12,
+	"money": 3808
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f081"
+	},
+	"breed": "Field Spaniel",
+	"time": 12,
+	"money": 685
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f082"
+	},
+	"breed": "Finnish Lapphund",
+	"time": 3,
+	"money": 4938
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f083"
+	},
+	"breed": "Finnish Spitz",
+	"time": 6,
+	"money": 1117
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f084"
+	},
+	"breed": "Flat-Coated Retriever",
+	"time": 0,
+	"money": 919
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f085"
+	},
+	"breed": "Fox Terrier",
+	"time": 13,
+	"money": 2794
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f086"
+	},
+	"breed": "French Bulldog",
+	"time": 1,
+	"money": 1358
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f087"
+	},
+	"breed": "German Pinscher",
+	"time": 17,
+	"money": 439
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f088"
+	},
+	"breed": "German Shepherd Dog",
+	"time": 24,
+	"money": 3285
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f089"
+	},
+	"breed": "German Shorthaired Pointer",
+	"time": 11,
+	"money": 2892
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f08a"
+	},
+	"breed": "German Wirehaired Pointer",
+	"time": 18,
+	"money": 1896
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f08b"
+	},
+	"breed": "Giant Schnauzer",
+	"time": 7,
+	"money": 1623
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f08c"
+	},
+	"breed": "Glen of Imaal Terrier",
+	"time": 10,
+	"money": 3541
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f08d"
+	},
+	"breed": "Golden Retriever",
+	"time": 3,
+	"money": 4201
+},
+{
+	"_id": {
+		"$oid": "5b90e2d450f9600e0c77f08e"
+	},
+	"breed": "Gordon Setter",
+	"time": 16,
+	"money": 2706
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f08f"
+	},
+	"breed": "Great Dane",
+	"time": 6,
+	"money": 3306
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f090"
+	},
+	"breed": "Great Pyrenees",
+	"time": 10,
+	"money": 3490
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f091"
+	},
+	"breed": "Greater Swiss Mountain Dog",
+	"time": 12,
+	"money": 2058
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f092"
+	},
+	"breed": "Greyhound",
+	"time": 11,
+	"money": 353
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f093"
+	},
+	"breed": "Harrier",
+	"time": 12,
+	"money": 3281
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f094"
+	},
+	"breed": "Havanese",
+	"time": 22,
+	"money": 1741
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f095"
+	},
+	"breed": "Ibizan Hound",
+	"time": 17,
+	"money": 4255
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f096"
+	},
+	"breed": "Icelandic Sheepdog",
+	"time": 0,
+	"money": 2303
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f097"
+	},
+	"breed": "Irish Setter",
+	"time": 5,
+	"money": 3072
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f098"
+	},
+	"breed": "Irish Terrier",
+	"time": 19,
+	"money": 2199
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f099"
+	},
+	"breed": "Irish Water Spaniel",
+	"time": 20,
+	"money": 56
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f09a"
+	},
+	"breed": "Irish Wolfhound",
+	"time": 2,
+	"money": 483
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f09b"
+	},
+	"breed": "Italian Greyhound",
+	"time": 9,
+	"money": 3806
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f09c"
+	},
+	"breed": "Jack Russell Terrier",
+	"time": 0,
+	"money": 3010
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f09d"
+	},
+	"breed": "Japanese Chin",
+	"time": 11,
+	"money": 4178
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f09e"
+	},
+	"breed": "Karelian Bear Dog",
+	"time": 22,
+	"money": 1234
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f09f"
+	},
+	"breed": "Keeshond",
+	"time": 9,
+	"money": 3877
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f0a0"
+	},
+	"breed": "Kerry Blue Terrier",
+	"time": 0,
+	"money": 2236
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f0a1"
+	},
+	"breed": "Komondor",
+	"time": 13,
+	"money": 3125
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f0a2"
+	},
+	"breed": "Kuvasz",
+	"time": 6,
+	"money": 2029
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f0a3"
+	},
+	"breed": "Labrador Retriever",
+	"time": 6,
+	"money": 3238
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f0a4"
+	},
+	"breed": "Lakeland Terrier",
+	"time": 18,
+	"money": 4074
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f0a5"
+	},
+	"breed": "Lancashire Heeler",
+	"time": 11,
+	"money": 1467
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f0a6"
+	},
+	"breed": "Leonberger",
+	"time": 18,
+	"money": 336
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f0a7"
+	},
+	"breed": "Lhasa Apso",
+	"time": 8,
+	"money": 582
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f0a8"
+	},
+	"breed": "Lowchen",
+	"time": 4,
+	"money": 2484
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f0a9"
+	},
+	"breed": "Maltese",
+	"time": 3,
+	"money": 3292
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f0aa"
+	},
+	"breed": "Manchester Terrier",
+	"time": 22,
+	"money": 3559
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f0ab"
+	},
+	"breed": "Mastiff",
+	"time": 24,
+	"money": 584
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f0ac"
+	},
+	"breed": "Miniature Pinscher",
+	"time": 24,
+	"money": 1844
+},
+{
+	"_id": {
+		"$oid": "5b90e2d550f9600e0c77f0ad"
+	},
+	"breed": "Miniature Schnauzer",
+	"time": 5,
+	"money": 4756
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0ae"
+	},
+	"breed": "Neapolitan Mastiff",
+	"time": 15,
+	"money": 2194
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0af"
+	},
+	"breed": "Norfolk Terrier",
+	"time": 13,
+	"money": 1987
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0b0"
+	},
+	"breed": "Norwegian Buhund",
+	"time": 22,
+	"money": 3599
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0b1"
+	},
+	"breed": "Norwegian Elkhound",
+	"time": 0,
+	"money": 2038
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0b2"
+	},
+	"breed": "Norwegian Lundehund",
+	"time": 20,
+	"money": 4639
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0b3"
+	},
+	"breed": "Norwich Terrier",
+	"time": 17,
+	"money": 2773
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0b4"
+	},
+	"breed": "Nova Scotia Duck Tolling Retriever",
+	"time": 20,
+	"money": 3425
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0b5"
+	},
+	"breed": "Old English Sheepdog",
+	"time": 8,
+	"money": 2702
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0b6"
+	},
+	"breed": "Otterhound",
+	"time": 9,
+	"money": 4065
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0b7"
+	},
+	"breed": "Papillon",
+	"time": 17,
+	"money": 4428
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0b8"
+	},
+	"breed": "Pekingese",
+	"time": 11,
+	"money": 3160
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0b9"
+	},
+	"breed": "Petit Basset Griffon Vendeen",
+	"time": 17,
+	"money": 4590
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0ba"
+	},
+	"breed": "Pharaoh Hound",
+	"time": 18,
+	"money": 221
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0bb"
+	},
+	"breed": "Pointer",
+	"time": 22,
+	"money": 3512
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0bc"
+	},
+	"breed": "Polish Lowland Sheepdog",
+	"time": 9,
+	"money": 4631
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0bd"
+	},
+	"breed": "Pomeranian",
+	"time": 13,
+	"money": 703
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0be"
+	},
+	"breed": "Poodle",
+	"time": 19,
+	"money": 2076
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0bf"
+	},
+	"breed": "Portuguese Water Dog",
+	"time": 8,
+	"money": 3835
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0c0"
+	},
+	"breed": "Pug",
+	"time": 15,
+	"money": 3929
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0c1"
+	},
+	"breed": "Puli",
+	"time": 22,
+	"money": 451
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0c2"
+	},
+	"breed": "Rat Terrier",
+	"time": 9,
+	"money": 590
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0c3"
+	},
+	"breed": "Redbone Coonhound",
+	"time": 3,
+	"money": 3792
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0c4"
+	},
+	"breed": "Rhodesian Ridgeback",
+	"time": 10,
+	"money": 190
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0c5"
+	},
+	"breed": "Rottweiler",
+	"time": 21,
+	"money": 4624
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0c6"
+	},
+	"breed": "Saluki",
+	"time": 0,
+	"money": 886
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0c7"
+	},
+	"breed": "Samoyed",
+	"time": 15,
+	"money": 2806
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0c8"
+	},
+	"breed": "Schipperke",
+	"time": 9,
+	"money": 1386
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0c9"
+	},
+	"breed": "Scottish Deerhound",
+	"time": 2,
+	"money": 1609
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0ca"
+	},
+	"breed": "Sealyham Terrier",
+	"time": 3,
+	"money": 358
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0cb"
+	},
+	"breed": "Shiba Inu",
+	"time": 18,
+	"money": 753
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0cc"
+	},
+	"breed": "Shih Tzu",
+	"time": 20,
+	"money": 1356
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0cd"
+	},
+	"breed": "Siberian Husky",
+	"time": 2,
+	"money": 2875
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0ce"
+	},
+	"breed": "Silky Terrier",
+	"time": 5,
+	"money": 20
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0cf"
+	},
+	"breed": "Skye Terrier",
+	"time": 1,
+	"money": 811
+},
+{
+	"_id": {
+		"$oid": "5b90e2d650f9600e0c77f0d0"
+	},
+	"breed": "Sloughi",
+	"time": 22,
+	"money": 2897
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0d1"
+	},
+	"breed": "Staffordshire Bull Terrier",
+	"time": 4,
+	"money": 2817
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0d2"
+	},
+	"breed": "Standard Schnauzer",
+	"time": 9,
+	"money": 1614
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0d3"
+	},
+	"breed": "Sussex Spaniel",
+	"time": 9,
+	"money": 4827
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0d4"
+	},
+	"breed": "Swedish Vallhund",
+	"time": 12,
+	"money": 4219
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0d5"
+	},
+	"breed": "Tibetan Mastiff",
+	"time": 4,
+	"money": 3456
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0d6"
+	},
+	"breed": "Tibetan Spaniel",
+	"time": 2,
+	"money": 2811
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0d7"
+	},
+	"breed": "Tibetan Terrier",
+	"time": 20,
+	"money": 168
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0d8"
+	},
+	"breed": "Toy Fox Terrier",
+	"time": 5,
+	"money": 2774
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0d9"
+	},
+	"breed": "Treeing Walker Coonhound",
+	"time": 20,
+	"money": 2199
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0da"
+	},
+	"breed": "Vizsla",
+	"time": 7,
+	"money": 4071
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0db"
+	},
+	"breed": "Weimaraner",
+	"time": 10,
+	"money": 2114
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0dc"
+	},
+	"breed": "Welsh Springer Spaniel",
+	"time": 15,
+	"money": 2707
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0dd"
+	},
+	"breed": "Welsh Terrier",
+	"time": 19,
+	"money": 2371
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0de"
+	},
+	"breed": "Whippet",
+	"time": 0,
+	"money": 2773
+},
+{
+	"_id": {
+		"$oid": "5b90e2d750f9600e0c77f0df"
+	},
+	"breed": "Wirehaired Pointing Griffon",
+	"time": 23,
+	"money": 1587
+}]
+

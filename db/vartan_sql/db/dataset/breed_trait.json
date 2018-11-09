@@ -1,0 +1,1405 @@
+[{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1d5"
+	},
+	"apt_friendly": 5,
+	"breed": "Affenpinscher",
+	"energy": 4,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1d6"
+	},
+	"apt_friendly": 5,
+	"breed": "Afghan Hound",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1d7"
+	},
+	"apt_friendly": 1,
+	"breed": "Airedale Terrier",
+	"energy": 5,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1d8"
+	},
+	"apt_friendly": 2,
+	"breed": "Akita",
+	"energy": 4,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1d9"
+	},
+	"apt_friendly": 1,
+	"breed": "Alaskan Malamute",
+	"energy": 5,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1da"
+	},
+	"apt_friendly": 1,
+	"breed": "American Bulldog",
+	"energy": 4,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1db"
+	},
+	"apt_friendly": 5,
+	"breed": "American Eskimo Dog",
+	"energy": 5,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1dc"
+	},
+	"apt_friendly": 2,
+	"breed": "American Staffordshire Terrier",
+	"energy": 3,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1dd"
+	},
+	"apt_friendly": 2,
+	"breed": "American Water Spaniel",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1de"
+	},
+	"apt_friendly": 2,
+	"breed": "Australian Kelpie",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1df"
+	},
+	"apt_friendly": 1,
+	"breed": "Australian Shepherd",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1e0"
+	},
+	"apt_friendly": 5,
+	"breed": "Australian Terrier",
+	"energy": 5,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1e1"
+	},
+	"apt_friendly": 5,
+	"breed": "Basenji",
+	"energy": 5,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1e2"
+	},
+	"apt_friendly": 5,
+	"breed": "Basset Hound",
+	"energy": 2,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1e3"
+	},
+	"apt_friendly": 4,
+	"breed": "Beagle",
+	"energy": 4,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1e4"
+	},
+	"apt_friendly": 3,
+	"breed": "Bearded Collie",
+	"energy": 4,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1e5"
+	},
+	"apt_friendly": 4,
+	"breed": "Bedlington Terrier",
+	"energy": 4,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1e6"
+	},
+	"apt_friendly": 1,
+	"breed": "Bernese Mountain Dog",
+	"energy": 4,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1e7"
+	},
+	"apt_friendly": 5,
+	"breed": "Bichon Frise",
+	"energy": 5,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1e8"
+	},
+	"apt_friendly": 1,
+	"breed": "Black and Tan Coonhound",
+	"energy": 5,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1e9"
+	},
+	"apt_friendly": 1,
+	"breed": "Black Mouth Cur",
+	"energy": 4,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1ea"
+	},
+	"apt_friendly": 3,
+	"breed": "Black Russian Terrier",
+	"energy": 4,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1eb"
+	},
+	"apt_friendly": 1,
+	"breed": "Bloodhound",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1ec"
+	},
+	"apt_friendly": 1,
+	"breed": "Blue Lacy",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1ed"
+	},
+	"apt_friendly": 2,
+	"breed": "Bluetick Coonhound",
+	"energy": 5,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1ee"
+	},
+	"apt_friendly": 1,
+	"breed": "Boerboel",
+	"energy": 3,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1ef"
+	},
+	"apt_friendly": 5,
+	"breed": "Bolognese",
+	"energy": 3,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1f0"
+	},
+	"apt_friendly": 2,
+	"breed": "Border Collie",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1f1"
+	},
+	"apt_friendly": 4,
+	"breed": "Border Terrier",
+	"energy": 4,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1f2"
+	},
+	"apt_friendly": 5,
+	"breed": "Borzoi",
+	"energy": 2,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1f3"
+	},
+	"apt_friendly": 5,
+	"breed": "Boston Terrier",
+	"energy": 4,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1f4"
+	},
+	"apt_friendly": 4,
+	"breed": "Boxer",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1f5"
+	},
+	"apt_friendly": 1,
+	"breed": "Boykin Spaniel",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1f6"
+	},
+	"apt_friendly": 3,
+	"breed": "Briard",
+	"energy": 4,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1f7"
+	},
+	"apt_friendly": 5,
+	"breed": "Brussels Griffon",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1f8"
+	},
+	"apt_friendly": 4,
+	"breed": "Bull Terrier",
+	"energy": 4,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1f9"
+	},
+	"apt_friendly": 3,
+	"breed": "Bullmastiff",
+	"energy": 2,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1fa"
+	},
+	"apt_friendly": 5,
+	"breed": "Cairn Terrier",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1fb"
+	},
+	"apt_friendly": 4,
+	"breed": "Canaan Dog",
+	"energy": 4,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1fc"
+	},
+	"apt_friendly": 1,
+	"breed": "Catahoula Leopard Dog",
+	"energy": 4,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1fd"
+	},
+	"apt_friendly": 5,
+	"breed": "Cavalier King Charles Spaniel",
+	"energy": 3,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1fe"
+	},
+	"apt_friendly": 1,
+	"breed": "Chesapeake Bay Retriever",
+	"energy": 5,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b1ff"
+	},
+	"apt_friendly": 5,
+	"breed": "Chihuahua",
+	"energy": 3,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b200"
+	},
+	"apt_friendly": 4,
+	"breed": "Chinook",
+	"energy": 3,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b201"
+	},
+	"apt_friendly": 3,
+	"breed": "Chow Chow",
+	"energy": 2,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b202"
+	},
+	"apt_friendly": 5,
+	"breed": "Clumber Spaniel",
+	"energy": 3,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b203"
+	},
+	"apt_friendly": 4,
+	"breed": "Cockapoo",
+	"energy": 3,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b204"
+	},
+	"apt_friendly": 5,
+	"breed": "Cocker Spaniel",
+	"energy": 4,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b205"
+	},
+	"apt_friendly": 3,
+	"breed": "Collie",
+	"energy": 3,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b206"
+	},
+	"apt_friendly": 5,
+	"breed": "Coton de Tulear",
+	"energy": 3,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b207"
+	},
+	"apt_friendly": 1,
+	"breed": "Curly-Coated Retriever",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b208"
+	},
+	"apt_friendly": 5,
+	"breed": "Dachshund",
+	"energy": 3,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b209"
+	},
+	"apt_friendly": 2,
+	"breed": "Dalmatian",
+	"energy": 5,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b20a"
+	},
+	"apt_friendly": 3,
+	"breed": "Doberman Pinscher",
+	"energy": 3,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b20b"
+	},
+	"apt_friendly": 1,
+	"breed": "Dogo Argentino",
+	"energy": 4,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b20c"
+	},
+	"apt_friendly": 5,
+	"breed": "Dogue de Bordeaux",
+	"energy": 2,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b20d"
+	},
+	"apt_friendly": 3,
+	"breed": "Dutch Shepherd",
+	"energy": 4,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b20e"
+	},
+	"apt_friendly": 5,
+	"breed": "English Cocker Spaniel",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b20f"
+	},
+	"apt_friendly": 1,
+	"breed": "English Setter",
+	"energy": 4,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b210"
+	},
+	"apt_friendly": 1,
+	"breed": "English Springer Spaniel",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b211"
+	},
+	"apt_friendly": 4,
+	"breed": "English Toy Spaniel",
+	"energy": 3,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b212"
+	},
+	"apt_friendly": 1,
+	"breed": "Field Spaniel",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b213"
+	},
+	"apt_friendly": 4,
+	"breed": "Finnish Lapphund",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b214"
+	},
+	"apt_friendly": 3,
+	"breed": "Finnish Spitz",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b215"
+	},
+	"apt_friendly": 1,
+	"breed": "Flat-Coated Retriever",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b216"
+	},
+	"apt_friendly": 3,
+	"breed": "Fox Terrier",
+	"energy": 5,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b217"
+	},
+	"apt_friendly": 5,
+	"breed": "French Bulldog",
+	"energy": 3,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b218"
+	},
+	"apt_friendly": 3,
+	"breed": "German Pinscher",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b219"
+	},
+	"apt_friendly": 3,
+	"breed": "German Shepherd Dog",
+	"energy": 5,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b21a"
+	},
+	"apt_friendly": 1,
+	"breed": "German Shorthaired Pointer",
+	"energy": 5,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b21b"
+	},
+	"apt_friendly": 2,
+	"breed": "German Wirehaired Pointer",
+	"energy": 5,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b21c"
+	},
+	"apt_friendly": 1,
+	"breed": "Giant Schnauzer",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b21d"
+	},
+	"apt_friendly": 4,
+	"breed": "Glen of Imaal Terrier",
+	"energy": 4,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b21e"
+	},
+	"apt_friendly": 2,
+	"breed": "Golden Retriever",
+	"energy": 5,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b21f"
+	},
+	"apt_friendly": 2,
+	"breed": "Gordon Setter",
+	"energy": 5,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b220"
+	},
+	"apt_friendly": 1,
+	"breed": "Great Dane",
+	"energy": 5,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b221"
+	},
+	"apt_friendly": 1,
+	"breed": "Great Pyrenees",
+	"energy": 5,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b222"
+	},
+	"apt_friendly": 1,
+	"breed": "Greater Swiss Mountain Dog",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b223"
+	},
+	"apt_friendly": 4,
+	"breed": "Greyhound",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b224"
+	},
+	"apt_friendly": 1,
+	"breed": "Harrier",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b225"
+	},
+	"apt_friendly": 5,
+	"breed": "Havanese",
+	"energy": 3,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b226"
+	},
+	"apt_friendly": 5,
+	"breed": "Ibizan Hound",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b227"
+	},
+	"apt_friendly": 1,
+	"breed": "Icelandic Sheepdog",
+	"energy": 4,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b228"
+	},
+	"apt_friendly": 1,
+	"breed": "Irish Setter",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b229"
+	},
+	"apt_friendly": 3,
+	"breed": "Irish Terrier",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b22a"
+	},
+	"apt_friendly": 3,
+	"breed": "Irish Water Spaniel",
+	"energy": 5,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b22b"
+	},
+	"apt_friendly": 1,
+	"breed": "Irish Wolfhound",
+	"energy": 2,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b22c"
+	},
+	"apt_friendly": 5,
+	"breed": "Italian Greyhound",
+	"energy": 4,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b22d"
+	},
+	"apt_friendly": 3,
+	"breed": "Jack Russell Terrier",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b22e"
+	},
+	"apt_friendly": 5,
+	"breed": "Japanese Chin",
+	"energy": 2,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b22f"
+	},
+	"apt_friendly": 2,
+	"breed": "Karelian Bear Dog",
+	"energy": 4,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b230"
+	},
+	"apt_friendly": 4,
+	"breed": "Keeshond",
+	"energy": 4,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b231"
+	},
+	"apt_friendly": 3,
+	"breed": "Kerry Blue Terrier",
+	"energy": 4,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b232"
+	},
+	"apt_friendly": 2,
+	"breed": "Komondor",
+	"energy": 2,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b233"
+	},
+	"apt_friendly": 1,
+	"breed": "Kuvasz",
+	"energy": 4,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b234"
+	},
+	"apt_friendly": 1,
+	"breed": "Labrador Retriever",
+	"energy": 5,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b235"
+	},
+	"apt_friendly": 4,
+	"breed": "Lakeland Terrier",
+	"energy": 5,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b236"
+	},
+	"apt_friendly": 2,
+	"breed": "Lancashire Heeler",
+	"energy": 4,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b237"
+	},
+	"apt_friendly": 1,
+	"breed": "Leonberger",
+	"energy": 4,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b238"
+	},
+	"apt_friendly": 5,
+	"breed": "Lhasa Apso",
+	"energy": 4,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b239"
+	},
+	"apt_friendly": 5,
+	"breed": "Lowchen",
+	"energy": 4,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b23a"
+	},
+	"apt_friendly": 5,
+	"breed": "Maltese",
+	"energy": 3,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b23b"
+	},
+	"apt_friendly": 5,
+	"breed": "Manchester Terrier",
+	"energy": 4,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b23c"
+	},
+	"apt_friendly": 2,
+	"breed": "Mastiff",
+	"energy": 3,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b23d"
+	},
+	"apt_friendly": 5,
+	"breed": "Miniature Pinscher",
+	"energy": 4,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b23e"
+	},
+	"apt_friendly": 4,
+	"breed": "Miniature Schnauzer",
+	"energy": 5,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b23f"
+	},
+	"apt_friendly": 2,
+	"breed": "Neapolitan Mastiff",
+	"energy": 3,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b240"
+	},
+	"apt_friendly": 4,
+	"breed": "Norfolk Terrier",
+	"energy": 4,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b241"
+	},
+	"apt_friendly": 3,
+	"breed": "Norwegian Buhund",
+	"energy": 4,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b242"
+	},
+	"apt_friendly": 4,
+	"breed": "Norwegian Elkhound",
+	"energy": 5,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b243"
+	},
+	"apt_friendly": 1,
+	"breed": "Norwegian Lundehund",
+	"energy": 4,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b244"
+	},
+	"apt_friendly": 5,
+	"breed": "Norwich Terrier",
+	"energy": 5,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b245"
+	},
+	"apt_friendly": 5,
+	"breed": "Nova Scotia Duck Tolling Retriever",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b246"
+	},
+	"apt_friendly": 5,
+	"breed": "Old English Sheepdog",
+	"energy": 4,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b247"
+	},
+	"apt_friendly": 1,
+	"breed": "Otterhound",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b248"
+	},
+	"apt_friendly": 5,
+	"breed": "Papillon",
+	"energy": 4,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b249"
+	},
+	"apt_friendly": 5,
+	"breed": "Pekingese",
+	"energy": 2,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b24a"
+	},
+	"apt_friendly": 4,
+	"breed": "Petit Basset Griffon Vendeen",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b24b"
+	},
+	"apt_friendly": 4,
+	"breed": "Pharaoh Hound",
+	"energy": 2,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b24c"
+	},
+	"apt_friendly": 1,
+	"breed": "Pointer",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b24d"
+	},
+	"apt_friendly": 4,
+	"breed": "Polish Lowland Sheepdog",
+	"energy": 4,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b24e"
+	},
+	"apt_friendly": 4,
+	"breed": "Pomeranian",
+	"energy": 3,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b24f"
+	},
+	"apt_friendly": 5,
+	"breed": "Poodle",
+	"energy": 4,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b250"
+	},
+	"apt_friendly": 4,
+	"breed": "Portuguese Water Dog",
+	"energy": 5,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b251"
+	},
+	"apt_friendly": 5,
+	"breed": "Pug",
+	"energy": 3,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b252"
+	},
+	"apt_friendly": 4,
+	"breed": "Puli",
+	"energy": 5,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b253"
+	},
+	"apt_friendly": 5,
+	"breed": "Rat Terrier",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b254"
+	},
+	"apt_friendly": 4,
+	"breed": "Redbone Coonhound",
+	"energy": 4,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b255"
+	},
+	"apt_friendly": 1,
+	"breed": "Rhodesian Ridgeback",
+	"energy": 4,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b256"
+	},
+	"apt_friendly": 2,
+	"breed": "Rottweiler",
+	"energy": 4,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b257"
+	},
+	"apt_friendly": 1,
+	"breed": "Saluki",
+	"energy": 5,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b258"
+	},
+	"apt_friendly": 2,
+	"breed": "Samoyed",
+	"energy": 5,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b259"
+	},
+	"apt_friendly": 4,
+	"breed": "Schipperke",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b25a"
+	},
+	"apt_friendly": 1,
+	"breed": "Scottish Deerhound",
+	"energy": 5,
+	"shedding": 5
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b25b"
+	},
+	"apt_friendly": 4,
+	"breed": "Sealyham Terrier",
+	"energy": 4,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b25c"
+	},
+	"apt_friendly": 5,
+	"breed": "Shiba Inu",
+	"energy": 4,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b25d"
+	},
+	"apt_friendly": 5,
+	"breed": "Shih Tzu",
+	"energy": 2,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b25e"
+	},
+	"apt_friendly": 2,
+	"breed": "Siberian Husky",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b25f"
+	},
+	"apt_friendly": 5,
+	"breed": "Silky Terrier",
+	"energy": 4,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b260"
+	},
+	"apt_friendly": 4,
+	"breed": "Skye Terrier",
+	"energy": 3,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b261"
+	},
+	"apt_friendly": 4,
+	"breed": "Sloughi",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b262"
+	},
+	"apt_friendly": 3,
+	"breed": "Staffordshire Bull Terrier",
+	"energy": 3,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b263"
+	},
+	"apt_friendly": 4,
+	"breed": "Standard Schnauzer",
+	"energy": 5,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b264"
+	},
+	"apt_friendly": 5,
+	"breed": "Sussex Spaniel",
+	"energy": 2,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b265"
+	},
+	"apt_friendly": 3,
+	"breed": "Swedish Vallhund",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b266"
+	},
+	"apt_friendly": 1,
+	"breed": "Tibetan Mastiff",
+	"energy": 4,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b267"
+	},
+	"apt_friendly": 5,
+	"breed": "Tibetan Spaniel",
+	"energy": 3,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b268"
+	},
+	"apt_friendly": 5,
+	"breed": "Tibetan Terrier",
+	"energy": 5,
+	"shedding": 1
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b269"
+	},
+	"apt_friendly": 5,
+	"breed": "Toy Fox Terrier",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b26a"
+	},
+	"apt_friendly": 1,
+	"breed": "Treeing Walker Coonhound",
+	"energy": 4,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b26b"
+	},
+	"apt_friendly": 1,
+	"breed": "Vizsla",
+	"energy": 5,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b26c"
+	},
+	"apt_friendly": 1,
+	"breed": "Weimaraner",
+	"energy": 5,
+	"shedding": 4
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b26d"
+	},
+	"apt_friendly": 4,
+	"breed": "Welsh Springer Spaniel",
+	"energy": 5,
+	"shedding": 3
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b26e"
+	},
+	"apt_friendly": 3,
+	"breed": "Welsh Terrier",
+	"energy": 5,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b26f"
+	},
+	"apt_friendly": 5,
+	"breed": "Whippet",
+	"energy": 5,
+	"shedding": 2
+},
+{
+	"_id": {
+		"$oid": "5b8f4e6b50f960048cb6b270"
+	},
+	"apt_friendly": 1,
+	"breed": "Wirehaired Pointing Griffon",
+	"energy": 5,
+	"shedding": 1
+}]
+

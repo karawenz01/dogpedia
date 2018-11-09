@@ -1,0 +1,157 @@
+apt_friendly,breed,energy,shedding
+5,Affenpinscher,4,1
+5,Afghan Hound,5,4
+1,Airedale Terrier,5,2
+2,Akita,4,5
+1,Alaskan Malamute,5,5
+1,American Bulldog,4,1
+5,American Eskimo Dog,5,5
+2,American Staffordshire Terrier,3,2
+2,American Water Spaniel,5,3
+2,Australian Kelpie,5,3
+1,Australian Shepherd,5,3
+5,Australian Terrier,5,1
+5,Basenji,5,1
+5,Basset Hound,2,4
+4,Beagle,4,3
+3,Bearded Collie,4,4
+4,Bedlington Terrier,4,5
+1,Bernese Mountain Dog,4,5
+5,Bichon Frise,5,2
+1,Black and Tan Coonhound,5,5
+1,Black Mouth Cur,4,3
+3,Black Russian Terrier,4,2
+1,Bloodhound,5,4
+1,Blue Lacy,5,3
+2,Bluetick Coonhound,5,2
+1,Boerboel,3,3
+5,Bolognese,3,1
+2,Border Collie,5,3
+4,Border Terrier,4,3
+5,Borzoi,2,5
+5,Boston Terrier,4,2
+4,Boxer,5,4
+1,Boykin Spaniel,5,4
+3,Briard,4,1
+5,Brussels Griffon,5,3
+4,Bull Terrier,4,3
+3,Bullmastiff,2,1
+5,Cairn Terrier,5,3
+4,Canaan Dog,4,4
+1,Catahoula Leopard Dog,4,3
+5,Cavalier King Charles Spaniel,3,3
+1,Chesapeake Bay Retriever,5,5
+5,Chihuahua,3,2
+4,Chinook,3,5
+3,Chow Chow,2,1
+5,Clumber Spaniel,3,5
+4,Cockapoo,3,1
+5,Cocker Spaniel,4,3
+3,Collie,3,5
+5,Coton de Tulear,3,1
+1,Curly-Coated Retriever,5,3
+5,Dachshund,3,3
+2,Dalmatian,5,5
+3,Doberman Pinscher,3,4
+1,Dogo Argentino,4,1
+5,Dogue de Bordeaux,2,3
+3,Dutch Shepherd,4,4
+5,English Cocker Spaniel,5,3
+1,English Setter,4,3
+1,English Springer Spaniel,5,3
+4,English Toy Spaniel,3,5
+1,Field Spaniel,5,3
+4,Finnish Lapphund,5,3
+3,Finnish Spitz,5,4
+1,Flat-Coated Retriever,5,3
+3,Fox Terrier,5,2
+5,French Bulldog,3,3
+3,German Pinscher,5,3
+3,German Shepherd Dog,5,5
+1,German Shorthaired Pointer,5,2
+2,German Wirehaired Pointer,5,2
+1,Giant Schnauzer,5,4
+4,Glen of Imaal Terrier,4,1
+2,Golden Retriever,5,5
+2,Gordon Setter,5,5
+1,Great Dane,5,5
+1,Great Pyrenees,5,5
+1,Greater Swiss Mountain Dog,5,3
+4,Greyhound,5,4
+1,Harrier,5,3
+5,Havanese,3,2
+5,Ibizan Hound,5,3
+1,Icelandic Sheepdog,4,5
+1,Irish Setter,5,4
+3,Irish Terrier,5,4
+3,Irish Water Spaniel,5,1
+1,Irish Wolfhound,2,3
+5,Italian Greyhound,4,2
+3,Jack Russell Terrier,5,3
+5,Japanese Chin,2,3
+2,Karelian Bear Dog,4,3
+4,Keeshond,4,5
+3,Kerry Blue Terrier,4,1
+2,Komondor,2,3
+1,Kuvasz,4,4
+1,Labrador Retriever,5,5
+4,Lakeland Terrier,5,2
+2,Lancashire Heeler,4,3
+1,Leonberger,4,5
+5,Lhasa Apso,4,3
+5,Lowchen,4,3
+5,Maltese,3,2
+5,Manchester Terrier,4,3
+2,Mastiff,3,3
+5,Miniature Pinscher,4,2
+4,Miniature Schnauzer,5,2
+2,Neapolitan Mastiff,3,3
+4,Norfolk Terrier,4,1
+3,Norwegian Buhund,4,3
+4,Norwegian Elkhound,5,5
+1,Norwegian Lundehund,4,5
+5,Norwich Terrier,5,2
+5,Nova Scotia Duck Tolling Retriever,5,3
+5,Old English Sheepdog,4,1
+1,Otterhound,5,4
+5,Papillon,4,2
+5,Pekingese,2,4
+4,Petit Basset Griffon Vendeen,5,4
+4,Pharaoh Hound,2,2
+1,Pointer,5,3
+4,Polish Lowland Sheepdog,4,1
+4,Pomeranian,3,4
+5,Poodle,4,1
+4,Portuguese Water Dog,5,1
+5,Pug,3,5
+4,Puli,5,1
+5,Rat Terrier,5,4
+4,Redbone Coonhound,4,2
+1,Rhodesian Ridgeback,4,4
+2,Rottweiler,4,4
+1,Saluki,5,2
+2,Samoyed,5,5
+4,Schipperke,5,3
+1,Scottish Deerhound,5,5
+4,Sealyham Terrier,4,4
+5,Shiba Inu,4,4
+5,Shih Tzu,2,3
+2,Siberian Husky,5,3
+5,Silky Terrier,4,2
+4,Skye Terrier,3,3
+4,Sloughi,5,3
+3,Staffordshire Bull Terrier,3,3
+4,Standard Schnauzer,5,1
+5,Sussex Spaniel,2,3
+3,Swedish Vallhund,5,4
+1,Tibetan Mastiff,4,2
+5,Tibetan Spaniel,3,3
+5,Tibetan Terrier,5,1
+5,Toy Fox Terrier,5,4
+1,Treeing Walker Coonhound,4,3
+1,Vizsla,5,2
+1,Weimaraner,5,4
+4,Welsh Springer Spaniel,5,3
+3,Welsh Terrier,5,2
+5,Whippet,5,2
+1,Wirehaired Pointing Griffon,5,1
