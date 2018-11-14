@@ -55,10 +55,40 @@
             <li class="nav-item px-lg-4">
               <a class="nav-link text-uppercase text-expanded" href="/adopt">Adopt</a>
             </li>
+            <li class="nav-item px-lg-4">
+              <a class="nav-link text-uppercase text-expanded" href="/image">Discover</a>
+            </li>
           </ul>
         </div>
       </div>
     </nav>
+
+    <section class="page-section" style="background-color: rgba(230, 167, 86, 0.9); padding: 3rem 0;">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-9 mx-auto">
+            <div class="cta-inner text-center rounded">
+              <h2 class="section-heading mb-5">
+                <span class="section-heading-upper">Select a dog breed to see what types of diseases they are susceptible to.</span>
+                <!-- <span class="section-heading-lower">Select your breed and search</span> -->
+              </h2>
+
+                <form method="POST" action="/send" role="form">
+                    <div class="form-group">
+                      <label for="selBreed">Select your breed</label>
+                      <select id="selDataset" onchange="optionChanged(this.value)" name="Breed"></select>
+                    </div>
+                    
+                   
+                    <button type="submit" class="btn btn-primary btn-xl" id="d-search">Submit</button>
+                  </form>
+
+            </div>
+          </div>
+        </div>
+      </div>  
+    </section>
+
 
     <section class="page-section" style="background-color: rgba(230, 167, 86, 0.9); padding: 3rem 0;">
       <div class="container">

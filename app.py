@@ -44,6 +44,11 @@ def adopt():
     """Return adopt page"""
     return render_template('adopt.html')
 
+@application.route("/image")
+def image():
+    """Return image page"""
+    return render_template('image.html')
+
 
 # 3. Getting extra info with additional route
 
